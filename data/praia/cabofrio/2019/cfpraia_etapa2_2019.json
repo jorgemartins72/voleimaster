@@ -1,0 +1,222 @@
+{
+	"nome": "Cabo Frio Vôlei Master",
+	"descrição": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nostrum saepe hic impedit est accusantium animi exercitationem tempore iure ad doloribus porro laborum laboriosam, eius voluptatem vitae blanditiis ex explicabo voluptates.",
+	"temporada": "2019",
+	"etapa": "2",
+	"enable": true,
+	"regulamento": {
+		"nome": "Regulamento",
+		"torneios": {
+			"duplas": {
+				"nome": "Torneio de Duplas",
+				"arquivos": [
+					{
+						"arquivo": "arquivo.pdf", 
+						"data": "00/00/0000"
+					},
+					{
+						"arquivo": "arquivo.pdf",
+						"data": "00/00/0000"
+					}
+				]
+			},
+			"quartetos": {
+				"nome": "Torneio de Quartetos",
+				"arquivos": [
+					{
+						"arquivo": "arquivo.pdf", 
+						"data": "00/00/0000"
+					},
+					{
+						"arquivo": "arquivo.pdf",
+						"data": "00/00/0000"
+					}
+				]
+			}
+		},
+		"enable": true
+	},
+	"equipes": {
+		"nome": "Equipes Inscritas",
+		"torneios": {
+			"duplas": {
+				"nome": "Torneio de Duplas",
+				"arquivos": [
+					{
+						"arquivo": "arquivo.pdf", 
+						"data": "00/00/0000"
+					},
+					{
+						"arquivo": "arquivo.pdf",
+						"data": "00/00/0000"
+					}
+				]
+			},
+			"quartetos": {
+				"nome": "Torneio de Quartetos",
+				"arquivos": [
+					{
+						"arquivo": "arquivo.pdf", 
+						"data": "00/00/0000"
+					},
+					{
+						"arquivo": "arquivo.pdf",
+						"data": "00/00/0000"
+					}
+				]
+			}
+		},
+		"enable": true
+	},
+	"tabela": {
+		"nome": "Tabela da Competição",
+		"torneios": {
+			"duplas": {
+				"nome": "Torneio de Duplas",
+				"arquivos": [
+					{
+						"arquivo": "arquivo.pdf", 
+						"data": "00/00/0000"
+					},
+					{
+						"arquivo": "arquivo.pdf",
+						"data": "00/00/0000"
+					}
+				]
+			},
+			"quartetos": {
+				"nome": "Torneio de Quartetos",
+				"arquivos": [
+					{
+						"arquivo": "arquivo.pdf", 
+						"data": "00/00/0000"
+					},
+					{
+						"arquivo": "arquivo.pdf",
+						"data": "00/00/0000"
+					}
+				]
+			}
+		},
+		"enable": true
+	},
+	"classificacao": [
+		{
+			"nome": "Classificação das Equipes",
+			"torneios": {
+				"duplas": {
+					"nome": "Torneio de Duplas",
+					"arquivos": [
+						{
+							"arquivo": "arquivo.pdf", 
+							"data": "00/00/0000"
+						},
+						{
+							"arquivo": "arquivo.pdf",
+							"data": "00/00/0000"
+						}
+					]
+				},
+				"quartetos": {
+					"nome": "Torneio de Quartetos",
+					"arquivos": [
+						{
+							"arquivo": "arquivo.pdf", 
+							"data": "00/00/0000"
+						},
+						{
+							"arquivo": "arquivo.pdf",
+							"data": "00/00/0000"
+						}
+					]
+				}
+			},
+			"enable": true
+		},
+		{
+			"nome": "Classificação das Final das Equipes",
+			"torneios": {
+				"duplas": {
+					"nome": "Torneio de Duplas",
+					"arquivos": [
+						{
+							"arquivo": "arquivo.pdf", 
+							"data": "00/00/0000"
+						},
+						{
+							"arquivo": "arquivo.pdf",
+							"data": "00/00/0000"
+						}
+					]
+				},
+				"quartetos": {
+					"nome": "Torneio de Quartetos",
+					"arquivos": [
+						{
+							"arquivo": "arquivo.pdf", 
+							"data": "00/00/0000"
+						},
+						{
+							"arquivo": "arquivo.pdf",
+							"data": "00/00/0000"
+						}
+					]
+				}
+			},
+			"enable": true
+		}
+	],
+	"comunicados": {
+		"nome": "Comunicados",
+		"torneios": {
+			"duplas": {
+				"nome": "Torneio de Duplas",
+				"arquivos": [
+					{
+						"arquivo": "arquivo.pdf", 
+						"data": "00/00/0000"
+					},
+					{
+						"arquivo": "arquivo.pdf",
+						"data": "00/00/0000"
+					}
+				]
+			},
+			"quartetos": {
+				"nome": "Torneio de Quartetos",
+				"arquivos": [
+					{
+						"arquivo": "arquivo.pdf", 
+						"data": "00/00/0000"
+					},
+					{
+						"arquivo": "arquivo.pdf",
+						"data": "00/00/0000"
+					}
+				]
+			}
+		},
+		"enable": true
+	},
+	"formularios": {
+		"nome": "Formulários",
+		"enable": true,
+		"arquivos": [
+			{
+				"nome": "Cadastro de Atleta",
+				"arquivo": "arquivo.pdf",
+				"enable": true
+			},
+			{
+				"nome": "Formulário Médico",
+				"arquivo": "arquivo.pdf",
+				"enable": true
+			},
+			{
+				"nome": "Termo de Compromisso de Atleta",
+				"arquivo": "arquivo.pdf",
+				"enable": true
+			}
+		]
+	}
+}

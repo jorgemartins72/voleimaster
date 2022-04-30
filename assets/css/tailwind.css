@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+	body {
+		/* font-family: 'Inter', sans-serif; */
+		font-family: 'Roboto', sans-serif;
+		font-weight: 400;
+	}
+	#logo {
+		height: 90px;
+	}
+	#logo #subtitulo {
+		display: none;
+	}
+	#logo-mobile #logo #subtitulo {
+		display: none;
+	}
+	.pagina {
+		padding-top: 105px;
+	}
+}

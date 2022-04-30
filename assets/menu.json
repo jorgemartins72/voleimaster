@@ -1,0 +1,64 @@
+[
+	{
+		"item":"Quem Somos",
+		"link": "/quemsomos",
+		"subitens":[
+			{
+				"item":"Sobre a FVMR",
+				"link": "/fvmr"
+			},
+			{
+				"item":"Gestão",
+				"link": "/gestao"
+			},
+			{
+				"item":"Transparência",
+				"link": "/transparencia"
+			},
+			{
+				"item":"Notas Oficiais",
+				"link": "/notasoficiais"
+			},
+			{
+				"item":"Medalha de Mérito Pedro Ernesto",
+				"link": "/medalha"
+			}
+		]
+	},
+	{
+		"item":"Quadra",
+		"link": "/quadra",
+		"subitens":[
+			{
+				"item":"Competições",
+				"link": "/competicoes"
+			},
+			{
+				"item":"Comissão de Quadra",
+				"link": "/comissao"
+			}
+		]
+	},
+	{
+		"item":"Praia",
+		"link": "/praia",
+		"subitens":[
+			{
+				"item":"Competições",
+				"link": "/competicoes"
+			},
+			{
+				"item":"Comissão de Quadra",
+				"link": "/comissao"
+			}
+		]
+	},
+	{
+		"item":"Notícias",
+		"link": "/noticias"
+	},
+	{
+		"item":"Fale Conosco",
+		"link": "/faleconosco"
+	}
+]

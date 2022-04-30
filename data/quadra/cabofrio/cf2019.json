@@ -1,0 +1,116 @@
+{
+	"nome": "Cabo Frio Vôlei Master",
+	"descrição": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nostrum saepe hic impedit est accusantium animi exercitationem tempore iure ad doloribus porro laborum laboriosam, eius voluptatem vitae blanditiis ex explicabo voluptates.",
+	"temporada": "2019",
+	"enable": true,
+	"regulamento": {
+		"nome": "Regulamento",
+		"arquivos": [
+			{
+				"arquivo": "arquivo.pdf", 
+				"data": "00/00/0000"
+			},
+			{
+				"arquivo": "arquivo.pdf",
+				"data": "00/00/0000"
+			}
+		],
+		"enable": true
+	},
+	"equipes": {
+		"nome": "Equipes Inscritas",
+		"arquivo": "arquivo.pdf",
+		"enable": true
+	},
+	"tabela": {
+		"nome": "Tabela da Competição",
+		"arquivos": [
+			{
+				"arquivo": "arquivo.pdf", 
+				"data": "00/00/0000"
+			},
+			{
+				"arquivo": "arquivo.pdf",
+				"data": "00/00/0000"
+			}
+		],
+		"enable": true
+	},
+	"classificacao": [
+		{
+			"nome": "Classificação das Equipes",
+			"arquivos": [
+				{
+					"nome": "Masculino",
+					"arquivo": "arquivo.pdf"
+				},
+				{
+					"nome": "Feminino",
+					"arquivo": "arquivo.pdf"
+				}
+			],
+			"enable": true
+		},
+		{
+			"nome": "Classificação das Final das Equipes",
+			"arquivos": [
+				{
+					"nome": "Masculino",
+					"arquivo": "arquivo.pdf"
+				},
+				{
+					"nome": "Feminino",
+					"arquivo": "arquivo.pdf"
+				}
+			],
+			"enable": true
+		}
+	],
+	"comunicados": {
+		"nome": "Comunicados",
+		"arquivos": [
+			{
+				"nome": "Comunicado Teste 1",
+				"arquivo": "arquivo.pdf",
+				"enable": true
+			},
+			{
+				"nome": "Comunicado Teste 2",
+				"arquivo": "arquivo.pdf",
+				"enable": true
+			}
+		],
+		"enable": true
+	},
+	"formularios": {
+		"nome": "Formulários",
+		"enable": true,
+		"arquivos": [
+			{
+			"nome": "Relação Nominal para Jogo",
+			"arquivo": "arquivo.pdf",
+			"enable": true
+			},
+			{
+			"nome": "Formulário de Alteração de Jogo",
+			"arquivo": "arquivo.pdf",
+			"enable": true
+			},
+			{
+			"nome": "Formulário Médico",
+			"arquivo": "arquivo.pdf",
+			"enable": true
+			},
+			{
+			"nome": "Procuração de Representante de Equipe",
+			"arquivo": "arquivo.pdf",
+			"enable": true
+			},
+			{
+			"nome": "Termo de Compromisso de Atleta",
+			"arquivo": "arquivo.pdf",
+			"enable": true
+			}
+		]
+	}
+}
