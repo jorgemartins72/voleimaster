@@ -1,0 +1,14 @@
+{
+	"nome": "Comunicados",
+	"texto": "Nostrum saepe hic impedit est accusantium animi exercitationem tempore.",
+	"arquivos": [
+		{
+			"arquivo": "arquivo.pdf", 
+			"data": "00/00/0000"
+		},
+		{
+			"arquivo": "arquivo.pdf",
+			"data": "00/00/0000"
+		}
+	]
+}

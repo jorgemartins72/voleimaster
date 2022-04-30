@@ -1,7 +1,6 @@
 <template>
 	<div class="">
 		<Breadcrumb itemLink="quadra" />
-		<pre>{{competicoes_quadra}}</pre>
 		<pre>{{competicoes_praia}}</pre>
 	</div>
 </template>
