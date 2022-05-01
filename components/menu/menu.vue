@@ -67,7 +67,7 @@
 		methods:{
 			menuMobile(){
 				this.stateMenuMobile = true
-			}
+			},
 		}
 	}
 </script>

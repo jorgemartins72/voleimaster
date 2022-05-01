@@ -79,7 +79,6 @@
 								>
 									<NuxtLink 
 										:to="item.link"
-										@click.native="scrollToTop"
 									>
 										{{item.item}}
 									</NuxtLink>
@@ -125,11 +124,6 @@
 				MenuData
 			}
 		},
-		methods:{
-			scrollToTop() {
-				window.scrollTo(0,0);
-			}
-		}
 	}
 </script>
 

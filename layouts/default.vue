@@ -17,6 +17,12 @@
 
 	export default {
 
+		middleware(){
+			if(process.browser){
+				window.scrollTo(0,0)
+			}
+		}
+
 	}
 </script>
 
