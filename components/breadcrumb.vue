@@ -1,7 +1,7 @@
 <template>
 	<div>
 		<nav aria-label="Breadcrumb">
-			<ol role="list" class="max-w-2xl mx-auto px-1 py-3 font-bold flex items-center space-x-2 sm:px-1 lg:max-w-7xl lg:px-1">
+			<ol role="list" class="max-w-2xl mx-auto py-3 font-bold flex items-center space-x-2 lg:max-w-7xl">
 				<li>
 					<div class="text-sm font-bold text-gray-300">
 						{{itemPageBase.item}}

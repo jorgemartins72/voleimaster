@@ -1,6 +1,6 @@
 <template>
 	<div class="max-w-7xl mx-auto px-6">
-		<div class="flex justify-start gap-1 pagina">
+		<div class="flex flex-col justify-start gap-1 pagina px-2">
 			<NuxtChild />
 		</div>
 	</div>
