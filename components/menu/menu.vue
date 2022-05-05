@@ -1,5 +1,5 @@
 <template>
-	<div class="w-full bg-white">
+	<div class="w-full bg-white z-50">
 		<div class="max-w-7xl mx-auto px-4 sm:px-6">
 			<div class="flex justify-between items-center border-b-2 border-gray-100 py-2 md:space-x-10">
 				<!-- Logo -->

@@ -1,6 +1,7 @@
 export const ComissaoPraia = {
-	"Título": "Comissão de Volei de Praia da FVMR",
+	"titulo": "Comissão de Volei de Praia da FVMR",
 	"palavra": {
+		"titulo": "A Palavra do Presidente Comissão de Voleibol de Praia da FVMR",
 		"texto": "Iniciativas da Federação de Voleibol Master do Rio de Janeiro como a criação de uma comissão de atletas, atuando no auxílio de tomada de decisões para etapas do circuito ou debates sobre regulamentos, demonstra que estamos caminhando para um ambiente dentro do vôlei de praia mais igualitário justo e com a cara dos atletas master do Rio. Agradeço em nome da Comissão de Vôlei de Praia a toda equipe da FVMR pela iniciativa. Tenho certeza que nossa colaboração será de grande vantagem para a ascensão de nossa categoria esportiva.",
 		"autor": "Diogo Souza",
 		"cargo": "Presidente da Comissão de Vôlei de Praia da FVMR"
@@ -49,10 +50,12 @@ export const ComissaoPraia = {
 		"texto": "Nostrum saepe hic impedit est accusantium animi exercitationem tempore.",
 		"arquivos": [
 			{
+				"nome": "Arquivo do Regulamento",
 				"arquivo": "arquivo.pdf", 
 				"data": "00/00/0000"
 			},
 			{
+				"nome": "Arquivo do Regulamento",
 				"arquivo": "arquivo.pdf",
 				"data": "00/00/0000"
 			}
