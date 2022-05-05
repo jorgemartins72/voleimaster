@@ -1,7 +1,7 @@
 <template>
 	<div class="pb-12">
 		<Breadcrumb itemLink="praia" />
-		<h1 class="font-inter-800 font-black uppercase text-2xl text-gray-600 mb-4">Voleibol de Praia</h1>
+		<h1 class="font-inter-800 uppercase font-black text-2xl text-gray-600 mb-4">Voleibol de Praia</h1>
 		<div class="md:px-8 lg:px-16">
 			<div class="grid grid-cols-1 md:grid-cols-2 gap-4 place-content-center">
 				<div class="flex flex-col">
