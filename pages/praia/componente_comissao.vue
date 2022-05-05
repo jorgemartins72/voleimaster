@@ -19,7 +19,15 @@
 						</p>
 					</dt>
 					<dd class="mt-1 ml-8 text-lg text-gray-600">
-						{{comissao.palavra.texto}}
+						<div class="mb-2">
+							<span class="font-black text-2xl leading-3">"</span>{{comissao.palavra.texto}}<span class="font-black text-2xl leading-3">"</span>
+						</div>
+						<div class="font-black">
+							{{comissao.palavra.autor}}
+						</div>
+						<div class="font-black text-xs mb-4">
+							{{comissao.palavra.cargo}}
+						</div>
 					</dd>
 				</div>
 				
