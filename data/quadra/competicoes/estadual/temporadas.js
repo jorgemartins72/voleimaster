@@ -11,7 +11,6 @@ import { Temporada2013 } from './2013/temporada'
 
 export const TemporadasQuadraEstadual = {
 	"nome": "Campeonato Estadual de Vôlei Master",
-	"descricao": "Uma breve descrição do campeonato lorem ipsum dolor, sit amet consectetur adipisicing elit.",
 	"temporadas": [
 		Temporada2022,
 		Temporada2021,

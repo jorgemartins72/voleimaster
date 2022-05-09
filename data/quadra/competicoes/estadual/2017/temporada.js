@@ -7,7 +7,7 @@ import Formularios from './_formularios'
 
 export const Temporada2017 = {
 	"nome": "Campeonato Estadual de Vôlei Master",
-	"descrição": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nostrum saepe hic impedit est accusantium animi exercitationem tempore iure ad doloribus porro laborum laboriosam, eius voluptatem vitae blanditiis ex explicabo voluptates.",
+	"descricao": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nostrum saepe hic impedit est accusantium animi exercitationem tempore iure ad doloribus porro laborum laboriosam, eius voluptatem vitae blanditiis ex explicabo voluptates.",
 	"temporada": "2017",
 	"regulamento": Regulamento,
 	"equipes": Equipes,

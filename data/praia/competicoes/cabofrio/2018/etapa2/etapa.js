@@ -7,7 +7,7 @@ import Formularios from './_formularios'
 
 export const Etapa2 = {
 	"nome": "Segunda Etapa",
-	"descrição": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nostrum saepe hic impedit est accusantium animi exercitationem tempore iure ad doloribus porro laborum laboriosam, eius voluptatem vitae blanditiis ex explicabo voluptates.",
+	"descricao": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nostrum saepe hic impedit est accusantium animi exercitationem tempore iure ad doloribus porro laborum laboriosam, eius voluptatem vitae blanditiis ex explicabo voluptates.",
 	"etapa": "2",
 	"regulamento": Regulamento,
 	"equipes": Equipes,

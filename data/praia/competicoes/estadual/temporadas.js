@@ -9,7 +9,6 @@ import { Temporada2015 } from './2015/temporada'
 
 export const TemporadasPraiaEstadual = {
 	"nome": "Campeonato Carioca Master de Vôlei de Praia",
-	"descricao": "Uma breve descrição do campeonato lorem ipsum dolor, sit amet consectetur adipisicing elit.",
 	"temporadas": [
 		Temporada2022,
 		Temporada2021,
