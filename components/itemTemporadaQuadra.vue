@@ -1,6 +1,7 @@
 <template>
 	<div 
 		class="flex flex-col justify-between w-80 md:w-56 lg:w-full h-52 border border-gray-300 px-4 py-4 rounded-lg"
+		v-if="item"
 	>
 		<div>
 			<div class="font-black text-xl">{{item.nome}}</div> 
