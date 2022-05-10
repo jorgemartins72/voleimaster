@@ -45,80 +45,22 @@
 
 			<div class="mt-6 grid grid-cols-1 md:grid-cols-3 gap-4 justify-items-center md:justify-items-start">
 
-				<div 
-					class="flex flex-col justify-between w-80 md:w-56 lg:w-full h-52 border border-gray-300 px-4 py-4 rounded-lg"
-				>
-					<div>
-						<div class="font-black text-xl">Regulamento</div> 
-						<div class="font-light font-xxs text-gray-400">
-							<span style="font-size: .8em">de 00/00/0000</span>
-						</div> 
-					</div>
-					<button class="bg-indigo-900 text-white py-2 rounded-md">
-						Download
-					</button>
-				</div>
 
-				<div 
-					class="flex flex-col justify-between w-80 md:w-56 lg:w-full h-52 border border-gray-300 px-4 py-4 rounded-lg"
-				>
-					<div>
-						<div class="font-black text-xl">Equipes</div> 
-						<div class="font-light font-xxs text-gray-400">
-							<span style="font-size: .8em">de 00/00/0000</span>
-						</div> 
-					</div>
-					<button class="bg-indigo-900 text-white py-2 rounded-md">
-						Download
-					</button>
-				</div>
+				<itemTemporadaQuadra :item="temporada.regulamento" :info="arrTempo" :temporada="temporada.temporada" />
 
-				<div 
-					class="flex flex-col justify-between w-80 md:w-56 lg:w-full h-52 border border-gray-300 px-4 py-4 rounded-lg"
-				>
-					<div>
-						<div class="font-black text-xl">Tabela de Classificação</div> 
-						<div class="font-light font-xxs text-gray-400">
-							<span style="font-size: .8em">de 00/00/0000</span>
-						</div> 
-					</div>
-					<button class="bg-indigo-900 text-white py-2 rounded-md">
-						Download
-					</button>
-				</div>
+				<itemTemporadaQuadra :item="temporada.equipes" :info="arrTempo" :temporada="temporada.temporada" />
 
-				<div 
-					class="flex flex-col justify-between w-80 md:w-56 lg:w-full h-52 border border-gray-300 px-4 py-4 rounded-lg"
-				>
-					<div>
-						<div class="font-black text-xl">Comunicados</div> 
-						<div class="font-light font-xxs text-gray-400">
-							<span style="font-size: .8em">de 00/00/0000</span>
-						</div> 
-					</div>
-					<button class="bg-indigo-900 text-white py-2 rounded-md">
-						Download
-					</button>
-				</div>
+				<itemTemporadaQuadra :item="temporada.tabela" :info="arrTempo" :temporada="temporada.temporada" />
 
-				<div 
-					class="flex flex-col justify-between w-80 md:w-56 lg:w-full h-52 border border-gray-300 px-4 py-4 rounded-lg"
-					v-for="(form, k) in temporada.formularios.arquivos" :key="k"
-				>
-					<div>
-						<div class="font-black text-xl">{{form.nome}}</div> 
-						<div class="font-light font-xxs text-gray-400">
-							<span style="font-size: .8em">de 00/00/0000</span>
-						</div> 
-					</div>
-					<button class="bg-indigo-900 text-white py-2 rounded-md">
-						Download
-					</button>
+				<itemTemporadaQuadra :item="temporada.comunicados" :info="arrTempo" :temporada="temporada.temporada" />
+
+				<div v-for="(form, k) in temporada.formularios.arquivos" :key="k">
+					<itemTemporadaQuadra :item="form" :info="arrTempo" :temporada="temporada.temporada" />
 				</div>
 
 			</div>
 
-			<div class="mt-16">
+			<div class="mt-16" v-if="temporadas.length > 1">
 				<div class="mb-3 text-2xl leading-6 font-black text-gray-900">
 					Todas as temporadas
 				</div>
@@ -141,7 +83,7 @@
 </template>
 
 <script>
-	import { competicoes_quadra } from '/data/data'
+	import { competicoes_quadra } from '/static/data'
 	export default {
 		data(){
 			return {
@@ -155,6 +97,9 @@
 		computed:{
 			pathTo(){
 				return this.$route.path;
+			},
+			arrTempo(){
+				return this.$route.path.split('/').filter( i => i != '')
 			},
 			competicao(){
 				const c = competicoes_quadra[this.slug]

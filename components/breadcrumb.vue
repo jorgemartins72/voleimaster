@@ -37,7 +37,7 @@
 
 <script>
 	import MenuData from '~/assets/menu.json'
-	import { competicoes_quadra, competicoes_praia } from '/data/data' 
+	import { competicoes_quadra, competicoes_praia } from '/static/data' 
 	export default {
 		data(){
 			return {

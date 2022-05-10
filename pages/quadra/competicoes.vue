@@ -52,7 +52,7 @@
 </template>
 
 <script>
-	import { competicoes_quadra } from '/data/data'
+	import { competicoes_quadra } from '/static/data'
 	export default {
 		data() {
 			return {

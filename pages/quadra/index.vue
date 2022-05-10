@@ -105,7 +105,7 @@
 </template>
 
 <script>
-	import { competicoes_quadra, ComissaoDeQuadra } from '/data/data'
+	import { competicoes_quadra, ComissaoDeQuadra } from '/static/data'
 	export default {
 		data() {
 			return {

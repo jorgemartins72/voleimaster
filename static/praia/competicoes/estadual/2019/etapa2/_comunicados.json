@@ -1,0 +1,32 @@
+{
+	"nome": "Comunicados",
+	"texto": "Nostrum saepe hic impedit est accusantium animi exercitationem tempore.",
+	"torneios": {
+		"duplas": {
+			"nome": "Torneio de Duplas",
+			"arquivos": [
+				{
+					"arquivo": "arquivoteste.pdf", 
+					"data": "00/00/0000"
+				},
+				{
+					"arquivo": "arquivoteste.pdf",
+					"data": "00/00/0000"
+				}
+			]
+		},
+		"quartetos": {
+			"nome": "Torneio de Quartetos",
+			"arquivos": [
+				{
+					"arquivo": "arquivoteste.pdf", 
+					"data": "00/00/0000"
+				},
+				{
+					"arquivo": "arquivoteste.pdf",
+					"data": "00/00/0000"
+				}
+			]
+		}
+	}
+}

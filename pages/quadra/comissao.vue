@@ -101,7 +101,7 @@
 </template>
 
 <script>
-	import { ComissaoDeQuadra } from '/data/data'
+	import { ComissaoDeQuadra } from '/static/data'
 	export default {
 		data() {
 			return {

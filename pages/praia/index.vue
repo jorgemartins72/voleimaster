@@ -96,7 +96,7 @@
 </template>
 
 <script>
-	import { competicoes_praia, ComissaoDePraia } from '/data/data'
+	import { competicoes_praia, ComissaoDePraia } from '/static/data'
 	export default {
 		data() {
 			return {

@@ -13,7 +13,7 @@
 </template>
 
 <script>
-	import { ComissaoDePraia } from '/data/data'
+	import { ComissaoDePraia } from '/static/data'
 	import PageComissao from './componente_comissao.vue'
 
 	export default {
