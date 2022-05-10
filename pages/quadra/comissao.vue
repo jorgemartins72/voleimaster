@@ -78,16 +78,23 @@
 							<div class="text-lg text-gray-600">
 								{{comissao.regulamento.texto}}
 							</div>
-							<button 
-								class="flex flex-nowrap items-center gap-1 mt-3 px-6 py-2 text-xl rounded-md border border-gray-300 bg-gray-100 text-gray-600"
+							
+							<a 
+								:href="`/quadra/comissao/${comissao.regulamento.arquivos[0].arquivo}`"
+								target="_blank" download="" 
 							>
-								<svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-									<path stroke-linecap="round" stroke-linejoin="round" d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
-								</svg>
-								<div>
-									{{comissao.regulamento.arquivos[0].nome}}
+								<div
+									class="flex flex-nowrap w-80 items-center gap-1 mt-3 px-8 py-2 text-xl rounded-md border border-gray-300 bg-gray-100 text-gray-600"
+								>
+									<svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+										<path stroke-linecap="round" stroke-linejoin="round" d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+									</svg>
+									<div>
+										{{comissao.regulamento.arquivos[0].nome}}
+									</div>
 								</div>
-							</button>
+							</a>
+
 						</dd>
 					</div>
 					
