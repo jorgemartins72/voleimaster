@@ -53,7 +53,7 @@
 					<div>
 						<div class="font-black text-xl">Regulamento</div> 
 						<div class="font-light font-xxs text-gray-400">
-							<span style="font-size: .8em">Atualizado em 00/00/0000</span>
+							<span style="font-size: .8em">de 00/00/0000</span>
 						</div> 
 					</div>
 					<button class="bg-indigo-900 text-white py-2 rounded-md">
@@ -67,7 +67,7 @@
 					<div>
 						<div class="font-black text-xl">Equipes</div> 
 						<div class="font-light font-xxs text-gray-400">
-							<span style="font-size: .8em">Atualizado em 00/00/0000</span>
+							<span style="font-size: .8em">de 00/00/0000</span>
 						</div> 
 					</div>
 					<button class="bg-indigo-900 text-white py-2 rounded-md">
@@ -81,7 +81,7 @@
 					<div>
 						<div class="font-black text-xl">Tabela de Classificação</div> 
 						<div class="font-light font-xxs text-gray-400">
-							<span style="font-size: .8em">Atualizado em 00/00/0000</span>
+							<span style="font-size: .8em">de 00/00/0000</span>
 						</div> 
 					</div>
 					<button class="bg-indigo-900 text-white py-2 rounded-md">
@@ -95,7 +95,7 @@
 					<div>
 						<div class="font-black text-xl">Comunicados</div> 
 						<div class="font-light font-xxs text-gray-400">
-							<span style="font-size: .8em">Atualizado em 00/00/0000</span>
+							<span style="font-size: .8em">de 00/00/0000</span>
 						</div> 
 					</div>
 					<button class="bg-indigo-900 text-white py-2 rounded-md">
@@ -110,7 +110,7 @@
 					<div>
 						<div class="font-black text-xl">{{form.nome}}</div> 
 						<div class="font-light font-xxs text-gray-400">
-							<span style="font-size: .8em">Atualizado em 00/00/0000</span>
+							<span style="font-size: .8em">de 00/00/0000</span>
 						</div> 
 					</div>
 					<button class="bg-indigo-900 text-white py-2 rounded-md">
