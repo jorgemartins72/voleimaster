@@ -8,3 +8,5 @@ export const TemporadasPraiaCaboFrio = {
 		Temporada2018
 	]
 }
+
+

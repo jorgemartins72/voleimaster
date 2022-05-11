@@ -101,7 +101,6 @@
 			pathTo(){
 				const newpath = [...this.arrTempo]
 				newpath.pop()
-				// newpath.push(this.arrTempo[2])
 				return newpath.join('/')
 			},
 			competicaoByPath(){
