@@ -166,6 +166,7 @@
 							<div class="font-black text-2xl text-indigo-900">{{temp.temporada}}</div> 
 						</NuxtLink>
 					</div>
+
 				</div>
 			</div>
 
@@ -191,8 +192,7 @@
 				return this.$route.path.split('/').filter( i => i != '')
 			},
 			pathTo(){
-				const newpath = [...this.arrTempo]
-				newpath.pop()
+				let newpath = [...this.arrTempo]
 				return newpath.join('/')
 			},
 			competicao(){

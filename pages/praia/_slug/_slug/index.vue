@@ -168,6 +168,7 @@
 							<div class="font-black text-2xl text-indigo-900">{{temp.temporada}}</div> 
 						</NuxtLink>
 					</div>
+					{{pathTo}}
 				</div>
 			</div>
 
