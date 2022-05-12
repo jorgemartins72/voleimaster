@@ -1,0 +1,14 @@
+{
+	"idpath": "primeiro-torneio-rataria",
+	"titulo": "Vem aí o PRIMEIRO TORNEIO DE “RATARIA” de vôlei de areia",
+	"texto": {
+		"paragrafos": [
+			"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laborum autem minus, harum reiciendis dolorum amet et maiores voluptates hic voluptatibus molestias, quis officiis, libero accusantium? Odio corporis harum numquam itaque."
+		]
+	},
+	"fotos": [
+		"rataria.jpg"
+	],
+	"date": "20220502",
+	"datebr": "02/05/2022"
+}
