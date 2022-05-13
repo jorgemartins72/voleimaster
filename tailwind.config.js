@@ -11,6 +11,10 @@ module.exports = {
       },
       fontSize: {
         'xxs': '.65rem'
+      },
+      height: {
+        '480': '480px',
+        '540': '540px',
       }
     },
   },

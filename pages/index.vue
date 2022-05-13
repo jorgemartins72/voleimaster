@@ -1,22 +1,16 @@
 <template>
-	<div class="max-w-7xl mx-auto px-6">
-		<div class="flex justify-start gap-1 pagina">
-			<h1 class="text-4xl">index</h1>
-		</div>
-		<div>
-			<img src="~/assets/imgs/cbem.jpg" />
-		</div>
+	<div class="pagina">
+		<Carousel />
 	</div>
 </template>
 
 <script>
+	import Carousel from "@/components/carousel/carousel"
 	export default {
-		
+		components: { Carousel }
 	}
 </script>
 
 <style lang="scss" scoped>
-  h1 {
-    text-transform: uppercase;
-  }
+
 </style>

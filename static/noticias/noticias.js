@@ -8,6 +8,8 @@ import news20201231 from './20201231/noticia'
 import news20220502 from './20220502/noticia'
 import news20200501 from './20200501/noticia'
 import news20191201 from './20191201/noticia'
+import news20220513 from './20220513/noticia'
+import news20220513_1 from './20220513_1/noticia'
 
 let news = [
 	news20200330,
@@ -17,7 +19,9 @@ let news = [
 	news20220502,
 	news20200501,
 	news20191201,
-	news20210105
+	news20210105,
+	news20220513,
+	news20220513_1
 ]
 
 export const Noticias = _.sortBy(news, 'date').reverse()
