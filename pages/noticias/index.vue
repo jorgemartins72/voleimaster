@@ -10,14 +10,14 @@
 
 			</div>
 
-			<div>
+			<div class="mb-6">
 				<div class="font-light text-sm uppercase mb-4">
 					Veja também
 				</div>
-				<div class="flex flex-col text-lg gap-3">
+				<div class="flex flex-col text-lg gap-6">
 
 					<a :href="`/noticias/${noticia.idpath}`" v-for="(noticia, k) in arrNews" :key="k">
-						<h2 class="font-semibold text-gray-600">
+						<h2 class="font-semibold text-gray-600 leading-5">
 							{{noticia.titulo}}
 						</h2>
 						<h3 class="font-light text-xs text-gray-600">{{noticia.datebr}}</h3>
@@ -50,7 +50,7 @@
 			arrNews(){
 				let arr = [...this.Noticias]
 				arr.shift()
-				return arr.slice(0, 4)
+				return arr.slice(0, 6)
 			}
 		}
 	}
