@@ -15,7 +15,10 @@ module.exports = {
       height: {
         '480': '480px',
         '540': '540px',
-      }
+      },
+      colors: {
+        'site-blue': '#003',
+      },
     },
   },
   variants: {
