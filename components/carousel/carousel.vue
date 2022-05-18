@@ -26,7 +26,7 @@
 				</div>
 			</div>
 
-			<a :href="`/noticias/${item.idpath}`" v-show="show(k)" v-for="(item, k) in noticias" :key="k"  class="absolute w-full h-full bg-black opacity-0" />
+			<a :href="`/noticias/${item.idpath}`" title="" v-show="show(k)" v-for="(item, k) in noticias" :key="k"  class="absolute w-full h-full bg-black opacity-0" />
 		</div>
 	</div>
 </template>

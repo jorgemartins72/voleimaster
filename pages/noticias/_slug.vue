@@ -12,7 +12,7 @@
 			</div>
 
 			<div class="mb-6">
-				<div class="font-light text-sm uppercase mb-4">
+				<div class="font-light text-sm uppercase mt-8 md:mb-4 md:mt-0">
 					Veja também
 				</div>
 				<div class="flex flex-col text-lg gap-6">
