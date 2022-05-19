@@ -3,26 +3,30 @@
 		<div 
 			class="h-96 md:h-480 lg:h-540 w-full bg-white bg-no-repeat bg-left-bottom relative overflow-hidden"
 		>
-			<transition name="foto" mode="out-in">
-				<div 
-					class="absolute h-96 w-screen md:h-480 lg:h-full md:w-full"
-					:style="`background-image: url('/noticias/${item.date}/${item.fotos[0]}')`"
-					v-if="show(k)"
-					v-for="(item, k) in noticias" :key="k"
-				/>
-			</transition>
+			<div class="container mx-auto">
+				<transition name="foto" mode="out-in">
+					<div 
+						class="absolute h-96 md:h-480 lg:h-full w-11/12 md:w-full bg-no-repeat"
+						:style="`background-image: url('/noticias/${item.date}/${item.fotos[0]}')`"
+						v-if="show(k)"
+						v-for="(item, k) in noticias" :key="k"
+					/>
+				</transition>
+			</div>
 
 			<div class="absolute w-full h-full bg-gradient-to-r from-black opacity-75" />
 
 			<div class="absolute w-full">
-				<div class="px-12 pt-20 md:px-24 md:pt-20 lg:px-48 lg:pt-24">
-					<h1 
-						class="w-9/12 md:w-7/12 lg:w-5/12 text-white text-3xl md:text-4xl lg:text-5xl font-black sombra textoEntrando select-none"
-						v-show="show(k)"
-						v-for="(item, k) in noticias" :key="k"
-					>
-						{{item.titulo}}
-					</h1>
+				<div class="container mx-auto">
+					<div class="px-8 pt-20 lg:pt-24">
+						<h1 
+							class="w-9/12 md:w-7/12 lg:w-7/12 text-white text-3xl md:text-4xl lg:text-5xl font-black sombra textoEntrando select-none"
+							v-show="show(k)"
+							v-for="(item, k) in noticias" :key="k"
+						>
+							{{item.titulo}}
+						</h1>
+					</div>
 				</div>
 			</div>
 
