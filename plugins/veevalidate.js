@@ -13,18 +13,6 @@ extend("required", {
 	message: "Este campo é obrigatório"
 })
 
-// extend('required', {
-// 	validate(value) {
-// 		console.log('requerido: ', value)
-// 		return {
-// 			required: true,
-// 			valid: ['', null, undefined].indexOf(value) === -1
-// 		}
-// 	},
-// 	computesRequired: true,
-// 	message: "Este campo é obrigatório"
-// })
-
 extend("min", {
 	...min,
 	message: "Texto muito curto"
@@ -44,8 +32,3 @@ extend('msg_curta', value => {
 	return 'O texto da mensagem é curto';
 });
 
-
-// extend("alpha", {
-// 	...alpha,
-// 	message: "This field must only contain alphabetic characters"
-// })
