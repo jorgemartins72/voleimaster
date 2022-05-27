@@ -72,5 +72,9 @@ export default {
   build: {
     transpile: ["vee-validate/dist/rules"],
     extend(config, ctx) {}
+  },
+
+  generate: {
+    fallback: true
   }
 }
