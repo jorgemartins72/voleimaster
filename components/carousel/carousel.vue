@@ -73,7 +73,6 @@
 			},
 			pathFoto(){
 				return `/noticias/${this.noticia.date}/${this.noticia.fotos[0]}`
-				// /noticias/{{item.date}}/{{item.fotos[0]}}
 			}
 		}
 	}
