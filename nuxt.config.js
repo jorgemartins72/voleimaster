@@ -22,6 +22,7 @@ export default {
       { rel: 'manifest', href: '/site.webmanifest' },
       { rel: 'mask-icon', href: '/safari-pinned-tab.svg', color: '#5bbad5' },
       { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap' },
+      { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&display=swap' },
       { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Inter:wght@500;700;800&display=swap' },
     ]
   },
@@ -44,6 +45,7 @@ export default {
   buildModules: [
     // https://go.nuxtjs.dev/tailwindcss
     '@nuxtjs/tailwindcss',
+    '@nuxtjs/moment'
   ],
 
   tailwindcss: {
@@ -54,13 +56,29 @@ export default {
     injectPosition: 0,
     viewer: true,
   },
+
+  moment: {
+    defaultLocale: 'pt-br',
+    locales: ['pt-br']
+  },
   
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
     // https://go.nuxtjs.dev/axios
     '@nuxtjs/axios',
-    'vue-sweetalert2/nuxt'
+    'vue-sweetalert2/nuxt',
+    '@nuxtjs/dayjs'
   ],
+
+  dayjs: {
+    locales: ['pt-br', 'en'],
+    defaultLocale: 'pt-br',
+    defaultTimeZone: 'America/Sao_Paulo',
+    plugins: [
+      'utc', // import 'dayjs/plugin/utc'
+      'timezone' // import 'dayjs/plugin/timezone'
+    ] // Your Day.js plugin
+  },
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {

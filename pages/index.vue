@@ -60,14 +60,6 @@
 				arr.shift()
 				return arr.slice(3, 7)
 			}
-		}, 
-		mounted(){
-			// this.$axios('http://voleimaster2022.s3-website-us-east-1.amazonaws.com/db.json')
-			// .then( 
-			// 	r => {
-			// 		console.log(r)
-			// 	} 
-			// )
 		}
 	}
 </script>

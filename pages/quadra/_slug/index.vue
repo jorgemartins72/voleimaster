@@ -41,10 +41,11 @@
 				</div>
 
 			</div>
+			<h3 class="mt-6 text-xl font-black">Jogos</h3>
+			<Jogos />
 
-
-			<div class="mt-6 grid grid-cols-1 md:grid-cols-3 gap-4 justify-items-center md:justify-items-start">
-
+			<h3 class="mt-8 text-xl font-black">Arquivos</h3>
+			<div class="mt-2 grid grid-cols-1 md:grid-cols-3 gap-4 justify-items-center md:justify-items-start">
 
 				<itemTemporadaQuadra :item="temporada.regulamento" :info="arrTempo" :temporada="temporada.temporada" />
 
@@ -84,7 +85,10 @@
 
 <script>
 	import { competicoes_quadra } from '/static/data'
+	import Jogos from '@/components/jogos/jogos.vue'
+
 	export default {
+		components: { Jogos },
 		data(){
 			return {
 				competicoes_quadra
