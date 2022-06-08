@@ -41,8 +41,8 @@
 				</div>
 
 			</div>
-			<h3 class="mt-6 text-xl font-black">Jogos</h3>
-			<Jogos />
+
+			<Jogos class="mt-6"/>
 
 			<h3 class="mt-8 text-xl font-black">Arquivos</h3>
 			<div class="mt-2 grid grid-cols-1 md:grid-cols-3 gap-4 justify-items-center md:justify-items-start">

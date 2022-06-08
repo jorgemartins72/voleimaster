@@ -1,18 +1,12 @@
 <template>
 	<div>
-		<!-- <div class="font-bold text-gray-800 text-lg">
-			{{dados[0].equipe}} X {{dados[1].equipe}}
-		</div> -->
-		<!-- <div class="">
-			{{equipe1}}<span class="px-1">/</span>{{equipe2}}
-		</div> -->
-		<div class="grid grid-cols-11 justify-center items-center">
-			<div class="col-span-5 -mr-2 text-right text-lg font-robotocondensed-400 font-bold text-indigo-900">
-				{{equipe1}}
+		<div class="grid grid-cols-11 justify-center items-center mt-1">
+			<div class="col-span-5 -mr-2 text-right text-lg font-robotocondensed-400 font-bold leading-5 text-indigo-900">
+				{{dados.equipe1}}
 			</div>
 			<div class="text-gray-400 text-center text-sm">vs</div>
-			<div class="col-span-5 -ml-2 text-left text-lg font-robotocondensed-400 font-bold text-indigo-900">
-				{{equipe2}}
+			<div class="col-span-5 -ml-2 text-left text-lg font-robotocondensed-400 font-bold leading-5 text-indigo-900">
+				{{dados.equipe2}}
 			</div>
 		</div>
 		<div class="grid grid-cols-11 justify-center" :class="{'-mt-2': placar}">
@@ -29,6 +23,7 @@
 				{{v}}<span class="mx-2 font-black" v-if="c < (parciais.length - 1)">-</span>
 			</div>
 		</div>
+
 	</div>
 </template>
 
@@ -36,16 +31,10 @@
 	export default {
 		props: ['dados'],
 		computed: {
-			equipe1(){
-				return this.dados[0].equipe
-			},
-			equipe2(){
-				return this.dados[1].equipe
-			},
 			sets(){
-				if(this.dados[0].pontos){
-					const arr1 = this.dados[0].pontos
-					const arr2 = this.dados[1].pontos
+				if(this.dados.pontos1){
+					const arr1 = this.dados.pontos1
+					const arr2 = this.dados.pontos2
 					const arr3 = arr1.map( p => 
 						{ 
 							const k = arr1.indexOf(p)
@@ -56,9 +45,9 @@
 				}
 			},
 			placar(){
-				if(this.dados[0].pontos){
-					const arr1 = this.dados[0].pontos
-					const arr2 = this.dados[1].pontos
+				if(this.dados.pontos1){
+					const arr1 = this.dados.pontos1
+					const arr2 = this.dados.pontos2
 					const arr3 = arr1.map( p => 
 						{ 
 							const k = arr1.indexOf(p)
