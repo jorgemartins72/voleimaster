@@ -1,6 +1,7 @@
 [
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-04-03",
         "hora": "10:30",
         "local": "SESC Tijuca",
@@ -20,6 +21,7 @@
         "rank2": 3,
         "grupo": "Grupo ùnico",
         "tempo": "00:47",
+        "_id": 1654885320,
         "pontos1": [
             17,
             15
@@ -27,11 +29,11 @@
         "pontos2": [
             25,
             25
-        ],
-        "_id": 1654645142
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-04-03",
         "hora": "12:00",
         "local": "SESC Tijuca",
@@ -51,6 +53,7 @@
         "rank2": "R5",
         "grupo": "A",
         "tempo": "01:13",
+        "_id": 1654885321,
         "pontos1": [
             25,
             12,
@@ -60,11 +63,11 @@
             15,
             25,
             16
-        ],
-        "_id": 1654645143
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-04-03",
         "hora": "13:30",
         "local": "SESC Tijuca",
@@ -84,6 +87,7 @@
         "rank2": "R7",
         "grupo": "B",
         "tempo": "01:14",
+        "_id": 1654885322,
         "pontos1": [
             28,
             26
@@ -91,11 +95,11 @@
         "pontos2": [
             26,
             24
-        ],
-        "_id": 1654645144
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-04-03",
         "hora": "15:00",
         "local": "SESC Tijuca",
@@ -115,6 +119,7 @@
         "rank2": "R6",
         "grupo": "B",
         "tempo": "01:07",
+        "_id": 1654885323,
         "pontos1": [
             25,
             15,
@@ -124,11 +129,11 @@
             22,
             25,
             9
-        ],
-        "_id": 1654645145
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-04-03",
         "hora": "16:30",
         "local": "SESC Tijuca",
@@ -148,6 +153,7 @@
         "rank2": "R4",
         "grupo": "A",
         "tempo": "00:51",
+        "_id": 1654885324,
         "pontos1": [
             23,
             20
@@ -155,11 +161,11 @@
         "pontos2": [
             25,
             25
-        ],
-        "_id": 1654645146
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-04-03",
         "hora": "13:15",
         "local": "Clube dos Securitários",
@@ -179,6 +185,7 @@
         "rank2": "R5",
         "grupo": "Grupo Único",
         "tempo": "01:22",
+        "_id": 1654885325,
         "pontos1": [
             21,
             24
@@ -186,11 +193,11 @@
         "pontos2": [
             25,
             26
-        ],
-        "_id": 1654645147
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-04-03",
         "hora": "14:30",
         "local": "Clube dos Securitários",
@@ -210,6 +217,7 @@
         "rank2": "R3",
         "grupo": "Grupo Único",
         "tempo": "00:58",
+        "_id": 1654885326,
         "pontos1": [
             22,
             23
@@ -217,11 +225,11 @@
         "pontos2": [
             25,
             25
-        ],
-        "_id": 1654645148
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-04-03",
         "hora": "15:45",
         "local": "Clube dos Securitários",
@@ -241,6 +249,7 @@
         "rank2": "R3",
         "grupo": "B",
         "tempo": "00:53",
+        "_id": 1654885327,
         "pontos1": [
             25,
             25
@@ -248,11 +257,11 @@
         "pontos2": [
             19,
             16
-        ],
-        "_id": 1654645149
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-04-09",
         "hora": "10:00",
         "local": "SESC Niterói",
@@ -272,6 +281,7 @@
         "rank2": "R8",
         "grupo": "A",
         "tempo": "00:57",
+        "_id": 1654885328,
         "pontos1": [
             25,
             25
@@ -279,11 +289,11 @@
         "pontos2": [
             22,
             14
-        ],
-        "_id": 1654645150
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-04-09",
         "hora": "11:15",
         "local": "SESC Niterói",
@@ -303,6 +313,7 @@
         "rank2": "R3",
         "grupo": "Grupo Único",
         "tempo": "01:20",
+        "_id": 1654885329,
         "pontos1": [
             25,
             22,
@@ -312,11 +323,11 @@
             20,
             25,
             7
-        ],
-        "_id": 1654645151
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-04-09",
         "hora": "12:30",
         "local": "SESC Niterói",
@@ -336,6 +347,7 @@
         "rank2": "R2",
         "grupo": "Grupo Único",
         "tempo": "01:31",
+        "_id": 1654885330,
         "pontos1": [
             25,
             21,
@@ -345,11 +357,11 @@
             20,
             25,
             19
-        ],
-        "_id": 1654645152
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-04-09",
         "hora": "13:45",
         "local": "SESC Niterói",
@@ -369,6 +381,7 @@
         "rank2": "R5",
         "grupo": "Grupo Único",
         "tempo": "00:50",
+        "_id": 1654885331,
         "pontos1": [
             25,
             25
@@ -376,11 +389,11 @@
         "pontos2": [
             12,
             15
-        ],
-        "_id": 1654645153
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-04-09",
         "hora": "15:00",
         "local": "SESC Niterói",
@@ -400,6 +413,7 @@
         "rank2": "R3",
         "grupo": "B",
         "tempo": "00:47",
+        "_id": 1654885332,
         "pontos1": [
             26,
             25
@@ -407,11 +421,11 @@
         "pontos2": [
             24,
             8
-        ],
-        "_id": 1654645154
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-04-10",
         "hora": "09:00",
         "local": "SESC Tijuca",
@@ -431,6 +445,7 @@
         "rank2": "R6",
         "grupo": "B",
         "tempo": "01:00",
+        "_id": 1654885333,
         "pontos1": [
             17,
             29
@@ -438,11 +453,11 @@
         "pontos2": [
             25,
             31
-        ],
-        "_id": 1654645155
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-04-10",
         "hora": "10:30",
         "local": "SESC Tijuca",
@@ -462,6 +477,7 @@
         "rank2": "R5",
         "grupo": "Grupo Único",
         "tempo": "00:40",
+        "_id": 1654885334,
         "pontos1": [
             25,
             25
@@ -469,11 +485,11 @@
         "pontos2": [
             11,
             11
-        ],
-        "_id": 1654645156
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-04-10",
         "hora": "12:00",
         "local": "SESC Tijuca",
@@ -493,6 +509,7 @@
         "rank2": "R3",
         "grupo": "Grupo Único",
         "tempo": "00:50",
+        "_id": 1654885335,
         "pontos1": [
             25,
             25
@@ -500,11 +517,11 @@
         "pontos2": [
             21,
             21
-        ],
-        "_id": 1654645157
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-04-10",
         "hora": "13:30",
         "local": "SESC Tijuca",
@@ -524,6 +541,7 @@
         "rank2": "R4",
         "grupo": "Grupo Único",
         "tempo": "00:50",
+        "_id": 1654885336,
         "pontos1": [
             25,
             25
@@ -531,11 +549,11 @@
         "pontos2": [
             15,
             12
-        ],
-        "_id": 1654645158
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-04-10",
         "hora": "15:00",
         "local": "SESC Tijuca",
@@ -555,14 +573,19 @@
         "rank2": "R4",
         "grupo": "Grupo Único",
         "tempo": "00:00",
+        "_id": 1654885337,
         "pontos1": [
             25,
             25
         ],
-        "_id": 1654645159
+        "pontos2": [
+            0,
+            0
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-04-10",
         "hora": "16:30",
         "local": "SESC Tijuca",
@@ -582,6 +605,7 @@
         "rank2": "R5",
         "grupo": "A",
         "tempo": "01:00",
+        "_id": 1654885338,
         "pontos1": [
             18,
             19
@@ -589,11 +613,11 @@
         "pontos2": [
             25,
             25
-        ],
-        "_id": 1654645160
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-04-10",
         "hora": "11:00",
         "local": "Braz de Pina Country Club",
@@ -613,6 +637,7 @@
         "rank2": "R4",
         "grupo": "Grupo Único",
         "tempo": "01:18",
+        "_id": 1654885339,
         "pontos1": [
             21,
             26,
@@ -622,11 +647,11 @@
             25,
             24,
             10
-        ],
-        "_id": 1654645161
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-04-13",
         "hora": "20:00",
         "local": "Clube Casa dos Açores",
@@ -646,6 +671,7 @@
         "rank2": "R5",
         "grupo": "A",
         "tempo": "01:19",
+        "_id": 1654885340,
         "pontos1": [
             25,
             22,
@@ -655,11 +681,11 @@
             20,
             25,
             12
-        ],
-        "_id": 1654645162
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-04-30",
         "hora": "09:00",
         "local": "SESC Niterói",
@@ -679,6 +705,7 @@
         "rank2": "R4",
         "grupo": "A",
         "tempo": "00:55",
+        "_id": 1654885341,
         "pontos1": [
             25,
             25
@@ -686,11 +713,11 @@
         "pontos2": [
             10,
             20
-        ],
-        "_id": 1654645163
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-04-30",
         "hora": "11:30",
         "local": "SESC Niterói",
@@ -710,6 +737,7 @@
         "rank2": "R3",
         "grupo": "B",
         "tempo": "00:57",
+        "_id": 1654885342,
         "pontos1": [
             25,
             25
@@ -717,11 +745,11 @@
         "pontos2": [
             12,
             20
-        ],
-        "_id": 1654645164
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-04-30",
         "hora": "12:45",
         "local": "SESC Niterói",
@@ -741,6 +769,7 @@
         "rank2": "R7",
         "grupo": "B",
         "tempo": "01:35",
+        "_id": 1654885343,
         "pontos1": [
             26,
             25,
@@ -750,11 +779,11 @@
             28,
             17,
             10
-        ],
-        "_id": 1654645165
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-04-30",
         "hora": "14:00",
         "local": "SESC Niterói",
@@ -774,6 +803,7 @@
         "rank2": "R5",
         "grupo": "A",
         "tempo": "00:43",
+        "_id": 1654885344,
         "pontos1": [
             25,
             25
@@ -781,11 +811,11 @@
         "pontos2": [
             17,
             15
-        ],
-        "_id": 1654645166
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-05-01",
         "hora": "12:00",
         "local": "Clube dos Securitários",
@@ -805,6 +835,7 @@
         "rank2": "R3",
         "grupo": "Grupo Único",
         "tempo": null,
+        "_id": 1654885345,
         "pontos1": [
             25,
             25
@@ -812,11 +843,11 @@
         "pontos2": [
             18,
             16
-        ],
-        "_id": 1654645167
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-05-01",
         "hora": "13:15",
         "local": "Clube dos Securitários",
@@ -836,6 +867,7 @@
         "rank2": "R6",
         "grupo": "B",
         "tempo": null,
+        "_id": 1654885346,
         "pontos1": [
             23,
             25,
@@ -845,11 +877,11 @@
             25,
             22,
             15
-        ],
-        "_id": 1654645168
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-05-05",
         "hora": "20:00",
         "local": "Casa dos Açores",
@@ -869,6 +901,7 @@
         "rank2": "R8",
         "grupo": "A",
         "tempo": "01:05",
+        "_id": 1654885347,
         "pontos1": [
             25,
             26
@@ -876,11 +909,11 @@
         "pontos2": [
             23,
             24
-        ],
-        "_id": 1654645169
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-05-07",
         "hora": "09:00",
         "local": "SESC Niterói",
@@ -900,6 +933,7 @@
         "rank2": "R4",
         "grupo": "A",
         "tempo": "00:59",
+        "_id": 1654885348,
         "pontos1": [
             25,
             25
@@ -907,11 +941,11 @@
         "pontos2": [
             19,
             13
-        ],
-        "_id": 1654645170
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-05-07",
         "hora": "10:15",
         "local": "SESC Niterói",
@@ -931,6 +965,7 @@
         "rank2": "R3",
         "grupo": "B",
         "tempo": "01:10",
+        "_id": 1654885349,
         "pontos1": [
             25,
             20,
@@ -940,11 +975,11 @@
             20,
             25,
             2
-        ],
-        "_id": 1654645171
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-05-07",
         "hora": "11:30",
         "local": "SESC Niterói",
@@ -964,6 +999,7 @@
         "rank2": "R4",
         "grupo": "Grupo Único",
         "tempo": "00:45",
+        "_id": 1654885350,
         "pontos1": [
             25,
             25
@@ -971,11 +1007,11 @@
         "pontos2": [
             6,
             15
-        ],
-        "_id": 1654645172
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-05-07",
         "hora": "12:45",
         "local": "SESC Niterói",
@@ -995,6 +1031,7 @@
         "rank2": "R3",
         "grupo": "Grupo Único",
         "tempo": null,
+        "_id": 1654885351,
         "pontos1": [
             20,
             26,
@@ -1004,11 +1041,11 @@
             25,
             24,
             7
-        ],
-        "_id": 1654645173
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-05-07",
         "hora": "14:00",
         "local": "SESC Niterói",
@@ -1028,6 +1065,7 @@
         "rank2": "R4",
         "grupo": "Grupo Único",
         "tempo": null,
+        "_id": 1654885352,
         "pontos1": [
             26,
             21,
@@ -1037,11 +1075,11 @@
             24,
             25,
             17
-        ],
-        "_id": 1654645174
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-05-07",
         "hora": "12:00",
         "local": "Clube dos Securitários",
@@ -1061,6 +1099,7 @@
         "rank2": "R3",
         "grupo": "Grupo Único",
         "tempo": "01:23",
+        "_id": 1654885353,
         "pontos1": [
             20,
             25,
@@ -1070,11 +1109,11 @@
             25,
             22,
             15
-        ],
-        "_id": 1654645175
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-05-07",
         "hora": "13:15",
         "local": "Clube dos Securitários",
@@ -1094,6 +1133,7 @@
         "rank2": "R4",
         "grupo": "A",
         "tempo": "00:55",
+        "_id": 1654885354,
         "pontos1": [
             25,
             25
@@ -1101,11 +1141,11 @@
         "pontos2": [
             19,
             16
-        ],
-        "_id": 1654645176
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-05-07",
         "hora": "14:30",
         "local": "Clube dos Securitários",
@@ -1125,6 +1165,7 @@
         "rank2": "R5",
         "grupo": "Grupo Único",
         "tempo": "00:47",
+        "_id": 1654885355,
         "pontos1": [
             25,
             25
@@ -1132,11 +1173,11 @@
         "pontos2": [
             16,
             13
-        ],
-        "_id": 1654645177
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-05-07",
         "hora": "15:45",
         "local": "Clube dos Securitários",
@@ -1156,6 +1197,7 @@
         "rank2": "R3",
         "grupo": "Grupo Único",
         "tempo": "00:56",
+        "_id": 1654885356,
         "pontos1": [
             25,
             25
@@ -1163,11 +1205,11 @@
         "pontos2": [
             18,
             17
-        ],
-        "_id": 1654645178
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-05-07",
         "hora": "17:00",
         "local": "Clube dos Securitários",
@@ -1187,6 +1229,7 @@
         "rank2": "R5",
         "grupo": "Grupo Único",
         "tempo": "01:30",
+        "_id": 1654885357,
         "pontos1": [
             25,
             24,
@@ -1196,11 +1239,11 @@
             22,
             26,
             15
-        ],
-        "_id": 1654645179
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-05-12",
         "hora": "21:00",
         "local": "Ginásio Coelho Netto",
@@ -1220,6 +1263,7 @@
         "rank2": "R4",
         "grupo": "Grupo Único",
         "tempo": "01:10",
+        "_id": 1654885358,
         "pontos1": [
             25,
             21,
@@ -1229,11 +1273,11 @@
             14,
             25,
             10
-        ],
-        "_id": 1654645180
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-05-14",
         "hora": "11:30",
         "local": "Clube Cinco de Julho",
@@ -1253,6 +1297,7 @@
         "rank2": "R5",
         "grupo": "Grupo Único",
         "tempo": "00:40",
+        "_id": 1654885359,
         "pontos1": [
             25,
             25
@@ -1260,11 +1305,11 @@
         "pontos2": [
             11,
             15
-        ],
-        "_id": 1654645181
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-05-15",
         "hora": "12:00",
         "local": "Clube dos Securitários",
@@ -1284,6 +1329,7 @@
         "rank2": "R3",
         "grupo": "B",
         "tempo": "00:44",
+        "_id": 1654885360,
         "pontos1": [
             25,
             25
@@ -1291,11 +1337,11 @@
         "pontos2": [
             10,
             13
-        ],
-        "_id": 1654645182
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-05-15",
         "hora": "13:15",
         "local": "Clube dos Securitários",
@@ -1315,6 +1361,7 @@
         "rank2": "R5",
         "grupo": "A",
         "tempo": "00:58",
+        "_id": 1654885361,
         "pontos1": [
             19,
             19
@@ -1322,11 +1369,11 @@
         "pontos2": [
             25,
             25
-        ],
-        "_id": 1654645183
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-05-15",
         "hora": "14:30",
         "local": "Clube dos Securitários",
@@ -1346,6 +1393,7 @@
         "rank2": "R5",
         "grupo": "Grupo Único",
         "tempo": "00:53",
+        "_id": 1654885362,
         "pontos1": [
             25,
             25
@@ -1353,11 +1401,11 @@
         "pontos2": [
             13,
             21
-        ],
-        "_id": 1654645184
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-05-15",
         "hora": "15:45",
         "local": "Clube dos Securitários",
@@ -1377,6 +1425,7 @@
         "rank2": "R4",
         "grupo": "Grupo Único",
         "tempo": "01:00",
+        "_id": 1654885363,
         "pontos1": [
             22,
             23
@@ -1384,11 +1433,11 @@
         "pontos2": [
             25,
             25
-        ],
-        "_id": 1654645185
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-05-15",
         "hora": "17:00",
         "local": "Clube dos Securitários",
@@ -1408,6 +1457,7 @@
         "rank2": "R3",
         "grupo": "Grupo Único",
         "tempo": "01:02",
+        "_id": 1654885364,
         "pontos1": [
             21,
             25,
@@ -1417,11 +1467,11 @@
             25,
             22,
             15
-        ],
-        "_id": 1654645186
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-05-21",
         "hora": "09:00",
         "local": "SESC Niterói",
@@ -1441,6 +1491,7 @@
         "rank2": "R5",
         "grupo": "A",
         "tempo": "00:57",
+        "_id": 1654885365,
         "pontos1": [
             25,
             29
@@ -1448,11 +1499,11 @@
         "pontos2": [
             10,
             27
-        ],
-        "_id": 1654645187
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-05-21",
         "hora": "10:15",
         "local": "SESC Niterói",
@@ -1472,6 +1523,7 @@
         "rank2": "R10",
         "grupo": "B",
         "tempo": "01:35",
+        "_id": 1654885366,
         "pontos1": [
             25,
             23,
@@ -1481,11 +1533,11 @@
             14,
             25,
             12
-        ],
-        "_id": 1654645188
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-05-21",
         "hora": "11:30",
         "local": "SESC Niterói",
@@ -1505,6 +1557,7 @@
         "rank2": "R9",
         "grupo": "A",
         "tempo": null,
+        "_id": 1654885367,
         "pontos1": [
             25,
             25
@@ -1512,11 +1565,11 @@
         "pontos2": [
             9,
             18
-        ],
-        "_id": 1654645189
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-05-21",
         "hora": "12:45",
         "local": "SESC Niterói",
@@ -1536,6 +1589,7 @@
         "rank2": "R4",
         "grupo": "Grupo Único",
         "tempo": null,
+        "_id": 1654885368,
         "pontos1": [
             25,
             25
@@ -1543,11 +1597,11 @@
         "pontos2": [
             19,
             21
-        ],
-        "_id": 1654645190
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-05-21",
         "hora": "14:00",
         "local": "SESC Niterói",
@@ -1567,6 +1621,7 @@
         "rank2": "R6",
         "grupo": "B",
         "tempo": null,
+        "_id": 1654885369,
         "pontos1": [
             25,
             21,
@@ -1576,11 +1631,11 @@
             21,
             25,
             15
-        ],
-        "_id": 1654645191
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-05-22",
         "hora": "09:00",
         "local": "SESC Tijuca",
@@ -1600,6 +1655,7 @@
         "rank2": "R7",
         "grupo": "B",
         "tempo": "00:47",
+        "_id": 1654885370,
         "pontos1": [
             25,
             25
@@ -1607,11 +1663,11 @@
         "pontos2": [
             10,
             15
-        ],
-        "_id": 1654645192
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-05-22",
         "hora": "10:30",
         "local": "SESC Tijuca",
@@ -1631,6 +1687,7 @@
         "rank2": "R6",
         "grupo": "B",
         "tempo": "00:53",
+        "_id": 1654885371,
         "pontos1": [
             21,
             13
@@ -1638,11 +1695,11 @@
         "pontos2": [
             25,
             25
-        ],
-        "_id": 1654645193
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-05-22",
         "hora": "12:00",
         "local": "SESC Tijuca",
@@ -1662,6 +1719,7 @@
         "rank2": "R4",
         "grupo": "Grupo Único",
         "tempo": "01:22",
+        "_id": 1654885372,
         "pontos1": [
             25,
             22,
@@ -1671,11 +1729,11 @@
             23,
             25,
             10
-        ],
-        "_id": 1654645194
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-05-22",
         "hora": "13:30",
         "local": "SESC Tijuca",
@@ -1695,6 +1753,7 @@
         "rank2": "R2",
         "grupo": "Grupo Único",
         "tempo": "00:50",
+        "_id": 1654885373,
         "pontos1": [
             25,
             25
@@ -1702,11 +1761,11 @@
         "pontos2": [
             21,
             20
-        ],
-        "_id": 1654645195
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-05-22",
         "hora": "15:00",
         "local": "SESC Tijuca",
@@ -1726,6 +1785,7 @@
         "rank2": "R2",
         "grupo": "Grupo Único",
         "tempo": "01:16",
+        "_id": 1654885374,
         "pontos1": [
             25,
             15,
@@ -1735,11 +1795,11 @@
             19,
             25,
             13
-        ],
-        "_id": 1654645196
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-05-29",
         "hora": "12:00",
         "local": "Clube dos Securitários",
@@ -1759,6 +1819,7 @@
         "rank2": "R9",
         "grupo": "A",
         "tempo": "00:55",
+        "_id": 1654885375,
         "pontos1": [
             25,
             25
@@ -1766,11 +1827,11 @@
         "pontos2": [
             18,
             11
-        ],
-        "_id": 1654645197
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-05-29",
         "hora": "13:15",
         "local": "Clube dos Securitários",
@@ -1790,6 +1851,7 @@
         "rank2": "R6",
         "grupo": "B",
         "tempo": "01:00",
+        "_id": 1654885376,
         "pontos1": [
             25,
             25
@@ -1797,11 +1859,11 @@
         "pontos2": [
             17,
             21
-        ],
-        "_id": 1654645198
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-05-29",
         "hora": "14:30",
         "local": "Clube dos Securitários",
@@ -1821,6 +1883,7 @@
         "rank2": "R10",
         "grupo": "B",
         "tempo": null,
+        "_id": 1654885377,
         "pontos1": [
             25,
             22,
@@ -1830,11 +1893,11 @@
             21,
             25,
             15
-        ],
-        "_id": 1654645199
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-05-29",
         "hora": "15:45",
         "local": "Clube dos Securitários",
@@ -1854,6 +1917,7 @@
         "rank2": "R4",
         "grupo": "Grupo Único",
         "tempo": null,
+        "_id": 1654885378,
         "pontos1": [
             29,
             30
@@ -1861,11 +1925,11 @@
         "pontos2": [
             27,
             28
-        ],
-        "_id": 1654645200
+        ]
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-06-04",
         "hora": "09:00",
         "local": "SESC Tijuca",
@@ -1885,10 +1949,11 @@
         "rank2": "R4",
         "grupo": "Grupo Único",
         "tempo": null,
-        "_id": 1654645201
+        "_id": 1654885379
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-06-04",
         "hora": "10:30",
         "local": "SESC Tijuca",
@@ -1908,10 +1973,11 @@
         "rank2": "R2",
         "grupo": "Grupo Único",
         "tempo": null,
-        "_id": 1654645202
+        "_id": 1654885380
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-06-04",
         "hora": "12:00",
         "local": "SESC Tijuca",
@@ -1931,10 +1997,11 @@
         "rank2": "R3",
         "grupo": "Grupo Único",
         "tempo": null,
-        "_id": 1654645203
+        "_id": 1654885381
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-06-04",
         "hora": "13:30",
         "local": "SESC Tijuca",
@@ -1954,10 +2021,11 @@
         "rank2": "R5",
         "grupo": "Grupo Único",
         "tempo": null,
-        "_id": 1654645204
+        "_id": 1654885382
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-06-04",
         "hora": "15:00",
         "local": "SESC Tijuca",
@@ -1977,10 +2045,11 @@
         "rank2": "R2",
         "grupo": "Grupo Único",
         "tempo": null,
-        "_id": 1654645205
+        "_id": 1654885383
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-06-04",
         "hora": "16:30",
         "local": "SESC Tijuca",
@@ -2000,10 +2069,11 @@
         "rank2": "R8",
         "grupo": "A",
         "tempo": null,
-        "_id": 1654645206
+        "_id": 1654885384
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-06-05",
         "hora": "09:00",
         "local": "SESC Tijuca",
@@ -2023,10 +2093,11 @@
         "rank2": "R5",
         "grupo": "A",
         "tempo": null,
-        "_id": 1654645207
+        "_id": 1654885385
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-06-05",
         "hora": "10:30",
         "local": "SESC Tijuca",
@@ -2046,10 +2117,11 @@
         "rank2": "R3",
         "grupo": "Grupo Único",
         "tempo": null,
-        "_id": 1654645208
+        "_id": 1654885386
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-06-05",
         "hora": "12:00",
         "local": "SESC Tijuca",
@@ -2069,10 +2141,11 @@
         "rank2": "R9",
         "grupo": "A",
         "tempo": null,
-        "_id": 1654645209
+        "_id": 1654885387
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-06-05",
         "hora": "13:30",
         "local": "SESC Tijuca",
@@ -2092,10 +2165,11 @@
         "rank2": "R7",
         "grupo": "B",
         "tempo": null,
-        "_id": 1654645210
+        "_id": 1654885388
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-06-05",
         "hora": "15:00",
         "local": "SESC Tijuca",
@@ -2115,10 +2189,11 @@
         "rank2": "R5",
         "grupo": "Grupo Único",
         "tempo": null,
-        "_id": 1654645211
+        "_id": 1654885389
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-06-05",
         "hora": "16:30",
         "local": "SESC Tijuca",
@@ -2138,10 +2213,11 @@
         "rank2": "R5",
         "grupo": "Grupo Único",
         "tempo": null,
-        "_id": 1654645212
+        "_id": 1654885390
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-06-11",
         "hora": "09:00",
         "local": "Arena 3",
@@ -2161,10 +2237,11 @@
         "rank2": "3º",
         "grupo": null,
         "tempo": null,
-        "_id": 1654645213
+        "_id": 1654885391
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-06-11",
         "hora": "10:30",
         "local": "Arena 3",
@@ -2184,10 +2261,11 @@
         "rank2": "R6",
         "grupo": "B",
         "tempo": null,
-        "_id": 1654645214
+        "_id": 1654885392
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-06-11",
         "hora": "12:00",
         "local": "Arena 3",
@@ -2207,10 +2285,11 @@
         "rank2": "R5",
         "grupo": "Grupo Único",
         "tempo": null,
-        "_id": 1654645215
+        "_id": 1654885393
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-06-11",
         "hora": "13:30",
         "local": "Arena 3",
@@ -2230,10 +2309,11 @@
         "rank2": "R2",
         "grupo": "Grupo Único",
         "tempo": null,
-        "_id": 1654645216
+        "_id": 1654885394
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-06-11",
         "hora": "15:00",
         "local": "Arena 3",
@@ -2253,10 +2333,11 @@
         "rank2": "R4",
         "grupo": "Grupo Único",
         "tempo": null,
-        "_id": 1654645217
+        "_id": 1654885395
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-06-11",
         "hora": "16:30",
         "local": "Arena 3",
@@ -2276,10 +2357,11 @@
         "rank2": "R5",
         "grupo": "A",
         "tempo": null,
-        "_id": 1654645218
+        "_id": 1654885396
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-06-12",
         "hora": "09:00",
         "local": "Arena 3",
@@ -2299,10 +2381,11 @@
         "rank2": null,
         "grupo": null,
         "tempo": null,
-        "_id": 1654645219
+        "_id": 1654885397
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-06-12",
         "hora": "10:30",
         "local": "Arena 3",
@@ -2322,10 +2405,11 @@
         "rank2": "R9",
         "grupo": "A",
         "tempo": null,
-        "_id": 1654645220
+        "_id": 1654885398
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-06-12",
         "hora": "12:00",
         "local": "Arena 3",
@@ -2345,10 +2429,11 @@
         "rank2": "R10",
         "grupo": "B",
         "tempo": null,
-        "_id": 1654645221
+        "_id": 1654885399
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-06-12",
         "hora": "13:30",
         "local": "Arena 3",
@@ -2368,10 +2453,11 @@
         "rank2": "R4",
         "grupo": "Grupo Único",
         "tempo": null,
-        "_id": 1654645222
+        "_id": 1654885400
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-06-12",
         "hora": "15:00",
         "local": "Arena 3",
@@ -2391,10 +2477,11 @@
         "rank2": "R2",
         "grupo": "Grupo Único",
         "tempo": null,
-        "_id": 1654645223
+        "_id": 1654885401
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-06-12",
         "hora": "16:30",
         "local": "Arena 3",
@@ -2414,10 +2501,11 @@
         "rank2": null,
         "grupo": null,
         "tempo": null,
-        "_id": 1654645224
+        "_id": 1654885402
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-06-25",
         "hora": "09:00",
         "local": "SESC Niterói",
@@ -2437,10 +2525,11 @@
         "rank2": "5ºB",
         "grupo": null,
         "tempo": null,
-        "_id": 1654645225
+        "_id": 1654885403
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-06-25",
         "hora": "10:15",
         "local": "SESC Niterói",
@@ -2460,10 +2549,11 @@
         "rank2": "5ºA",
         "grupo": null,
         "tempo": null,
-        "_id": 1654645226
+        "_id": 1654885404
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-06-25",
         "hora": "11:30",
         "local": "SESC Niterói",
@@ -2483,10 +2573,11 @@
         "rank2": "R3",
         "grupo": "Grupo Único",
         "tempo": null,
-        "_id": 1654645227
+        "_id": 1654885405
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-06-25",
         "hora": "12:45",
         "local": "SESC Niterói",
@@ -2506,10 +2597,11 @@
         "rank2": "3ºA",
         "grupo": null,
         "tempo": null,
-        "_id": 1654645228
+        "_id": 1654885406
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-06-25",
         "hora": "14:00",
         "local": "SESC Niterói",
@@ -2529,10 +2621,11 @@
         "rank2": "3ºB",
         "grupo": null,
         "tempo": null,
-        "_id": 1654645229
+        "_id": 1654885407
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-06-26",
         "hora": "09:00",
         "local": "Arena 3",
@@ -2552,10 +2645,11 @@
         "rank2": "3ºA",
         "grupo": null,
         "tempo": null,
-        "_id": 1654645230
+        "_id": 1654885408
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-06-26",
         "hora": "10:30",
         "local": "Arena 3",
@@ -2575,10 +2669,11 @@
         "rank2": "3ºB",
         "grupo": null,
         "tempo": null,
-        "_id": 1654645231
+        "_id": 1654885409
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-06-26",
         "hora": "12:00",
         "local": "Arena 3",
@@ -2598,10 +2693,11 @@
         "rank2": "5º",
         "grupo": null,
         "tempo": null,
-        "_id": 1654645232
+        "_id": 1654885410
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-06-26",
         "hora": "13:30",
         "local": "Arena 3",
@@ -2621,10 +2717,11 @@
         "rank2": "R3",
         "grupo": "Grupo Único",
         "tempo": null,
-        "_id": 1654645233
+        "_id": 1654885411
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-06-26",
         "hora": "15:00",
         "local": "Arena 3",
@@ -2644,10 +2741,11 @@
         "rank2": "3ºA",
         "grupo": null,
         "tempo": null,
-        "_id": 1654645234
+        "_id": 1654885412
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-06-26",
         "hora": "16:30",
         "local": "Arena 3",
@@ -2667,10 +2765,11 @@
         "rank2": "3ºB",
         "grupo": null,
         "tempo": null,
-        "_id": 1654645235
+        "_id": 1654885413
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-07-02",
         "hora": "09:00",
         "local": "SESC Niterói",
@@ -2690,10 +2789,11 @@
         "rank2": "5º",
         "grupo": null,
         "tempo": null,
-        "_id": 1654645236
+        "_id": 1654885414
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-07-02",
         "hora": "10:15",
         "local": "SESC Niterói",
@@ -2713,10 +2813,11 @@
         "rank2": "V22",
         "grupo": null,
         "tempo": null,
-        "_id": 1654645237
+        "_id": 1654885415
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-07-02",
         "hora": "11:30",
         "local": "SESC Niterói",
@@ -2736,10 +2837,11 @@
         "rank2": "3°A",
         "grupo": null,
         "tempo": null,
-        "_id": 1654645238
+        "_id": 1654885416
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-07-02",
         "hora": "12:45",
         "local": "SESC Niterói",
@@ -2759,10 +2861,11 @@
         "rank2": "1°B",
         "grupo": null,
         "tempo": null,
-        "_id": 1654645239
+        "_id": 1654885417
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-07-02",
         "hora": "14:00",
         "local": "SESC Niterói",
@@ -2782,10 +2885,11 @@
         "rank2": "3°B",
         "grupo": null,
         "tempo": null,
-        "_id": 1654645240
+        "_id": 1654885418
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-07-03",
         "hora": "09:00",
         "local": "SESC Tijuca",
@@ -2805,10 +2909,11 @@
         "rank2": "V11",
         "grupo": null,
         "tempo": null,
-        "_id": 1654645241
+        "_id": 1654885419
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-07-03",
         "hora": "10:30",
         "local": "SESC Tijuca",
@@ -2828,10 +2933,11 @@
         "rank2": "V7",
         "grupo": null,
         "tempo": null,
-        "_id": 1654645242
+        "_id": 1654885420
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-07-03",
         "hora": "12:00",
         "local": "SESC Tijuca",
@@ -2851,10 +2957,11 @@
         "rank2": "4º",
         "grupo": null,
         "tempo": null,
-        "_id": 1654645243
+        "_id": 1654885421
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-07-03",
         "hora": "13:30",
         "local": "SESC Tijuca",
@@ -2874,10 +2981,11 @@
         "rank2": "3º",
         "grupo": null,
         "tempo": null,
-        "_id": 1654645244
+        "_id": 1654885422
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-07-03",
         "hora": "15:00",
         "local": "SESC Tijuca",
@@ -2897,10 +3005,11 @@
         "rank2": "4º",
         "grupo": null,
         "tempo": null,
-        "_id": 1654645245
+        "_id": 1654885423
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-07-03",
         "hora": "16:30",
         "local": "SESC Tijuca",
@@ -2920,10 +3029,11 @@
         "rank2": "3º",
         "grupo": null,
         "tempo": null,
-        "_id": 1654645246
+        "_id": 1654885424
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-07-10",
         "hora": "12:00",
         "local": "Clube dos Securitários",
@@ -2943,10 +3053,11 @@
         "rank2": "V8",
         "grupo": null,
         "tempo": null,
-        "_id": 1654645247
+        "_id": 1654885425
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-07-10",
         "hora": "13:15",
         "local": "Clube dos Securitários",
@@ -2966,10 +3077,11 @@
         "rank2": "V11",
         "grupo": null,
         "tempo": null,
-        "_id": 1654645248
+        "_id": 1654885426
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-07-10",
         "hora": "14:30",
         "local": "Clube dos Securitários",
@@ -2989,10 +3101,11 @@
         "rank2": "3º",
         "grupo": null,
         "tempo": null,
-        "_id": 1654645249
+        "_id": 1654885427
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-07-10",
         "hora": "15:45",
         "local": "Clube dos Securitários",
@@ -3012,10 +3125,11 @@
         "rank2": "V11",
         "grupo": null,
         "tempo": null,
-        "_id": 1654645250
+        "_id": 1654885428
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-07-10",
         "hora": "17:00",
         "local": "Clube dos Securitários",
@@ -3035,10 +3149,11 @@
         "rank2": "3º",
         "grupo": null,
         "tempo": null,
-        "_id": 1654645251
+        "_id": 1654885429
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-07-17",
         "hora": "09:00",
         "local": "SESC Tijuca",
@@ -3058,10 +3173,11 @@
         "rank2": "3º",
         "grupo": null,
         "tempo": null,
-        "_id": 1654645252
+        "_id": 1654885430
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-07-17",
         "hora": "10:30",
         "local": "SESC Tijuca",
@@ -3081,10 +3197,11 @@
         "rank2": "V7",
         "grupo": null,
         "tempo": null,
-        "_id": 1654645253
+        "_id": 1654885431
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-07-17",
         "hora": "12:00",
         "local": "SESC Tijuca",
@@ -3104,10 +3221,11 @@
         "rank2": "V8",
         "grupo": null,
         "tempo": null,
-        "_id": 1654645254
+        "_id": 1654885432
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-07-17",
         "hora": "13:30",
         "local": "SESC Tijuca",
@@ -3127,10 +3245,11 @@
         "rank2": "P9",
         "grupo": null,
         "tempo": null,
-        "_id": 1654645255
+        "_id": 1654885433
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-07-17",
         "hora": "15:00",
         "local": "SESC Tijuca",
@@ -3150,10 +3269,11 @@
         "rank2": "V4",
         "grupo": null,
         "tempo": null,
-        "_id": 1654645256
+        "_id": 1654885434
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-07-17",
         "hora": "16:30",
         "local": "SESC Tijuca",
@@ -3173,10 +3293,11 @@
         "rank2": "V9",
         "grupo": null,
         "tempo": null,
-        "_id": 1654645257
+        "_id": 1654885435
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-07-23",
         "hora": "09:00",
         "local": "SESC Niterói",
@@ -3196,10 +3317,11 @@
         "rank2": "P10",
         "grupo": null,
         "tempo": null,
-        "_id": 1654645258
+        "_id": 1654885436
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-07-23",
         "hora": "10:15",
         "local": "SESC Niterói",
@@ -3219,10 +3341,11 @@
         "rank2": "V10",
         "grupo": null,
         "tempo": null,
-        "_id": 1654645259
+        "_id": 1654885437
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-07-23",
         "hora": "11:30",
         "local": "SESC Niterói",
@@ -3242,10 +3365,11 @@
         "rank2": "P13",
         "grupo": null,
         "tempo": null,
-        "_id": 1654645260
+        "_id": 1654885438
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-07-23",
         "hora": "12:45",
         "local": "SESC Niterói",
@@ -3265,10 +3389,11 @@
         "rank2": "V13",
         "grupo": null,
         "tempo": null,
-        "_id": 1654645261
+        "_id": 1654885439
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-07-23",
         "hora": "14:00",
         "local": "SESC Niterói",
@@ -3288,10 +3413,11 @@
         "rank2": "P13",
         "grupo": null,
         "tempo": null,
-        "_id": 1654645262
+        "_id": 1654885440
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-07-24",
         "hora": "12:00",
         "local": "Clube dos Securitários",
@@ -3311,10 +3437,11 @@
         "rank2": "P13",
         "grupo": null,
         "tempo": null,
-        "_id": 1654645263
+        "_id": 1654885441
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-07-24",
         "hora": "13:15",
         "local": "Clube dos Securitários",
@@ -3334,10 +3461,11 @@
         "rank2": "V22",
         "grupo": null,
         "tempo": null,
-        "_id": 1654645264
+        "_id": 1654885442
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-07-24",
         "hora": "14:30",
         "local": "Clube dos Securitários",
@@ -3357,10 +3485,11 @@
         "rank2": "V24",
         "grupo": null,
         "tempo": null,
-        "_id": 1654645265
+        "_id": 1654885443
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-07-24",
         "hora": "15:45",
         "local": "Clube dos Securitários",
@@ -3380,10 +3509,11 @@
         "rank2": "V7",
         "grupo": null,
         "tempo": null,
-        "_id": 1654645266
+        "_id": 1654885444
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-07-24",
         "hora": "17:00",
         "local": "Clube dos Securitários",
@@ -3403,10 +3533,11 @@
         "rank2": "V8",
         "grupo": null,
         "tempo": null,
-        "_id": 1654645267
+        "_id": 1654885445
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-07-30",
         "hora": "09:00",
         "local": "SESC Niterói",
@@ -3426,10 +3557,11 @@
         "rank2": "P26",
         "grupo": null,
         "tempo": null,
-        "_id": 1654645268
+        "_id": 1654885446
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-07-30",
         "hora": "10:15",
         "local": "SESC Niterói",
@@ -3449,10 +3581,11 @@
         "rank2": "V26",
         "grupo": null,
         "tempo": null,
-        "_id": 1654645269
+        "_id": 1654885447
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-07-30",
         "hora": "11:30",
         "local": "SESC Niterói",
@@ -3472,10 +3605,11 @@
         "rank2": "P10",
         "grupo": null,
         "tempo": null,
-        "_id": 1654645270
+        "_id": 1654885448
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-07-30",
         "hora": "12:45",
         "local": "SESC Niterói",
@@ -3495,10 +3629,11 @@
         "rank2": "V10",
         "grupo": null,
         "tempo": null,
-        "_id": 1654645271
+        "_id": 1654885449
     },
     {
-        "ano": 2022,
+        "temporada": 2022,
+        "turno": "primeiro",
         "data": "2022-07-30",
         "hora": "14:00",
         "local": "SESC Niterói",
@@ -3518,6 +3653,6 @@
         "rank2": "V13",
         "grupo": null,
         "tempo": null,
-        "_id": 1654645272
+        "_id": 1654885450
     }
 ]
