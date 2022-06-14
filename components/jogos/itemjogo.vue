@@ -13,22 +13,24 @@
 				</svg>
 
 				<!-- <div class="px-4 pt-1 font-inter-500 uppercase text-white">
-					???
+					{{d}}
 				</div> -->
 
 			</div>
 
 			<div class="grid grid-cols-2 gap-3">
 
-				<div class="px-3 border border-gray-300 rounded-lg flex items-center bg-white shadow-md" v-for="item in jogos[d]" :key="item.hora">
-					<div class="m-2 w-full text-center text-gray-600">
-						<div class="text-xs uppercase">
-							{{item.hora}} - {{item.local}}
+				<div v-for="item in jogos[d]" :key="item.hora" v-if="item.equipe1 != null && item.equipe2 != null">
+					<div class="px-3 border border-gray-300 rounded-lg flex items-center bg-white shadow-md">
+						<div class="m-2 w-full text-center text-gray-600">
+							<div class="text-xs uppercase">
+								{{item.hora}} - {{item.local}}
+							</div>
+							<div class="text-xs uppercase font-black">
+								{{item.genero}} {{item.categoria}} 
+							</div>
+							<Partida :dados="item" />
 						</div>
-						<div class="text-xs uppercase font-black">
-							{{item.genero}} {{item.categoria}}
-						</div>
-						<Partida :dados="item" />
 					</div>
 				</div>
 

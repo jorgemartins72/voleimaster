@@ -1,19 +1,20 @@
 <template>
 	<div >
-		
-		<pre>{{classificacao.length}}</pre>
-		<pre class="text-xs leading-3">{{classificacao}}</pre>
-		<!-- <pre>{{c50.length}}</pre> -->
-		<!-- <pre class="text-xs">{{c50}}</pre> -->
 
-		<div class="hidden">
-			<div class="font-black text-xl text-center text-gray-400 mb-2">Resultados dos Últimos Jogos</div>
-			<ItemJogo :jogos="jogosResults" class="mb-6" />
+		<div class="mb-12">
+			<div v-if="!_.isEmpty(jogosResults)">
+				<div class="font-black text-xl text-center text-gray-400 mb-2">Resultados dos Últimos Jogos</div>
+				<ItemJogo :jogos="jogosResults" class="mb-6" />
+			</div>
 
-			<div class="font-black text-xl text-center text-gray-400 mb-2">Próximos Jogos</div>
-			<ItemJogo :jogos="proximosJogos" class="mb-6" />
+			<div v-if="!_.isEmpty(proximosJogos)">
+				<div class="font-black text-xl text-center text-gray-400 mb-2">Próximos Jogos</div>
+				<ItemJogo :jogos="proximosJogos" class="mb-6" />
+			</div>
 		</div>
 
+		<Tabela :rank="classificacao" />
+		
 	</div>
 </template>
 
@@ -22,17 +23,18 @@
 	import _, { map } from 'underscore'
 	import moment from 'moment'
 	import ItemJogo from './itemjogo'
+	import Tabela from '@/components/classificacao/tabela'
 	
 	export default {
-		components: { ItemJogo },
+		components: { ItemJogo, Tabela },
 		props: ['temporada', 'competicao'],
 		data(){
 			return {
 				DataJogos,
 				d1: moment().subtract(moment().day() + 3, 'days').format("YYYY-MM-DD"),
-				d2: moment().add(moment().day() - 3, 'days').format("YYYY-MM-DD"),
-				d3: moment().subtract(moment().day() + 10, 'days').format("YYYY-MM-DD"),
-				d4: moment().subtract(moment().day() + 4, 'days').format("YYYY-MM-DD"),
+				d2: moment().add(moment().day() - 1, 'days').format("YYYY-MM-DD"),
+				d3: moment().subtract(moment().day() - 4, 'days').format("YYYY-MM-DD"),
+				d4: moment().subtract(moment().day() - 10, 'days').format("YYYY-MM-DD"),
 			}
 		},
 		computed: {
@@ -42,15 +44,18 @@
 			proximosJogos(){
 				let arr = DataJogos
 					.filter(j => !j.pontos1 )
-					.filter(j => j.data > this.d1 && j.data < this.d2 )
+					.filter(j => j.data > this.d3 && j.data < this.d4 )
 				
 				return _.groupBy(arr, i => i.data)
 			},
 			jogosResults(){
 				let arr = DataJogos
 					.filter(j => j.pontos1 )
-					.filter(j => j.data > this.d3 && j.data < this.d4 )
-				return _.groupBy(arr, i => i.data)
+					.filter(j => j.data > this.d1 && j.data < this.d2 )
+				
+				let results = _.groupBy(arr, i => i.data)
+
+				return results
 			},
 			jogosMasculino(){
 				let arr = DataJogos.filter(j => j.pontos1 )

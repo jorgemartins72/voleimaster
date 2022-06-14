@@ -19,9 +19,9 @@
         "3set2": "x",
         "rank1": "R1",
         "rank2": 3,
-        "grupo": "Grupo ùnico",
+        "grupo": "Grupo Único",
         "tempo": "00:47",
-        "_id": 1654885320,
+        "_id": 1655214916,
         "pontos1": [
             17,
             15
@@ -53,7 +53,7 @@
         "rank2": "R5",
         "grupo": "A",
         "tempo": "01:13",
-        "_id": 1654885321,
+        "_id": 1655214917,
         "pontos1": [
             25,
             12,
@@ -87,7 +87,7 @@
         "rank2": "R7",
         "grupo": "B",
         "tempo": "01:14",
-        "_id": 1654885322,
+        "_id": 1655214918,
         "pontos1": [
             28,
             26
@@ -119,7 +119,7 @@
         "rank2": "R6",
         "grupo": "B",
         "tempo": "01:07",
-        "_id": 1654885323,
+        "_id": 1655214919,
         "pontos1": [
             25,
             15,
@@ -153,7 +153,7 @@
         "rank2": "R4",
         "grupo": "A",
         "tempo": "00:51",
-        "_id": 1654885324,
+        "_id": 1655214920,
         "pontos1": [
             23,
             20
@@ -185,7 +185,7 @@
         "rank2": "R5",
         "grupo": "Grupo Único",
         "tempo": "01:22",
-        "_id": 1654885325,
+        "_id": 1655214921,
         "pontos1": [
             21,
             24
@@ -217,7 +217,7 @@
         "rank2": "R3",
         "grupo": "Grupo Único",
         "tempo": "00:58",
-        "_id": 1654885326,
+        "_id": 1655214922,
         "pontos1": [
             22,
             23
@@ -249,7 +249,7 @@
         "rank2": "R3",
         "grupo": "B",
         "tempo": "00:53",
-        "_id": 1654885327,
+        "_id": 1655214923,
         "pontos1": [
             25,
             25
@@ -281,7 +281,7 @@
         "rank2": "R8",
         "grupo": "A",
         "tempo": "00:57",
-        "_id": 1654885328,
+        "_id": 1655214924,
         "pontos1": [
             25,
             25
@@ -313,7 +313,7 @@
         "rank2": "R3",
         "grupo": "Grupo Único",
         "tempo": "01:20",
-        "_id": 1654885329,
+        "_id": 1655214925,
         "pontos1": [
             25,
             22,
@@ -347,7 +347,7 @@
         "rank2": "R2",
         "grupo": "Grupo Único",
         "tempo": "01:31",
-        "_id": 1654885330,
+        "_id": 1655214926,
         "pontos1": [
             25,
             21,
@@ -381,7 +381,7 @@
         "rank2": "R5",
         "grupo": "Grupo Único",
         "tempo": "00:50",
-        "_id": 1654885331,
+        "_id": 1655214927,
         "pontos1": [
             25,
             25
@@ -413,7 +413,7 @@
         "rank2": "R3",
         "grupo": "B",
         "tempo": "00:47",
-        "_id": 1654885332,
+        "_id": 1655214928,
         "pontos1": [
             26,
             25
@@ -445,7 +445,7 @@
         "rank2": "R6",
         "grupo": "B",
         "tempo": "01:00",
-        "_id": 1654885333,
+        "_id": 1655214929,
         "pontos1": [
             17,
             29
@@ -477,7 +477,7 @@
         "rank2": "R5",
         "grupo": "Grupo Único",
         "tempo": "00:40",
-        "_id": 1654885334,
+        "_id": 1655214930,
         "pontos1": [
             25,
             25
@@ -509,7 +509,7 @@
         "rank2": "R3",
         "grupo": "Grupo Único",
         "tempo": "00:50",
-        "_id": 1654885335,
+        "_id": 1655214931,
         "pontos1": [
             25,
             25
@@ -541,7 +541,7 @@
         "rank2": "R4",
         "grupo": "Grupo Único",
         "tempo": "00:50",
-        "_id": 1654885336,
+        "_id": 1655214932,
         "pontos1": [
             25,
             25
@@ -573,7 +573,7 @@
         "rank2": "R4",
         "grupo": "Grupo Único",
         "tempo": "00:00",
-        "_id": 1654885337,
+        "_id": 1655214933,
         "pontos1": [
             25,
             25
@@ -605,7 +605,7 @@
         "rank2": "R5",
         "grupo": "A",
         "tempo": "01:00",
-        "_id": 1654885338,
+        "_id": 1655214934,
         "pontos1": [
             18,
             19
@@ -637,7 +637,7 @@
         "rank2": "R4",
         "grupo": "Grupo Único",
         "tempo": "01:18",
-        "_id": 1654885339,
+        "_id": 1655214935,
         "pontos1": [
             21,
             26,
@@ -671,7 +671,7 @@
         "rank2": "R5",
         "grupo": "A",
         "tempo": "01:19",
-        "_id": 1654885340,
+        "_id": 1655214936,
         "pontos1": [
             25,
             22,
@@ -705,7 +705,7 @@
         "rank2": "R4",
         "grupo": "A",
         "tempo": "00:55",
-        "_id": 1654885341,
+        "_id": 1655214937,
         "pontos1": [
             25,
             25
@@ -737,7 +737,7 @@
         "rank2": "R3",
         "grupo": "B",
         "tempo": "00:57",
-        "_id": 1654885342,
+        "_id": 1655214938,
         "pontos1": [
             25,
             25
@@ -769,7 +769,7 @@
         "rank2": "R7",
         "grupo": "B",
         "tempo": "01:35",
-        "_id": 1654885343,
+        "_id": 1655214939,
         "pontos1": [
             26,
             25,
@@ -803,7 +803,7 @@
         "rank2": "R5",
         "grupo": "A",
         "tempo": "00:43",
-        "_id": 1654885344,
+        "_id": 1655214940,
         "pontos1": [
             25,
             25
@@ -835,7 +835,7 @@
         "rank2": "R3",
         "grupo": "Grupo Único",
         "tempo": null,
-        "_id": 1654885345,
+        "_id": 1655214941,
         "pontos1": [
             25,
             25
@@ -867,7 +867,7 @@
         "rank2": "R6",
         "grupo": "B",
         "tempo": null,
-        "_id": 1654885346,
+        "_id": 1655214942,
         "pontos1": [
             23,
             25,
@@ -901,7 +901,7 @@
         "rank2": "R8",
         "grupo": "A",
         "tempo": "01:05",
-        "_id": 1654885347,
+        "_id": 1655214943,
         "pontos1": [
             25,
             26
@@ -933,7 +933,7 @@
         "rank2": "R4",
         "grupo": "A",
         "tempo": "00:59",
-        "_id": 1654885348,
+        "_id": 1655214944,
         "pontos1": [
             25,
             25
@@ -965,7 +965,7 @@
         "rank2": "R3",
         "grupo": "B",
         "tempo": "01:10",
-        "_id": 1654885349,
+        "_id": 1655214945,
         "pontos1": [
             25,
             20,
@@ -999,7 +999,7 @@
         "rank2": "R4",
         "grupo": "Grupo Único",
         "tempo": "00:45",
-        "_id": 1654885350,
+        "_id": 1655214946,
         "pontos1": [
             25,
             25
@@ -1031,7 +1031,7 @@
         "rank2": "R3",
         "grupo": "Grupo Único",
         "tempo": null,
-        "_id": 1654885351,
+        "_id": 1655214947,
         "pontos1": [
             20,
             26,
@@ -1065,7 +1065,7 @@
         "rank2": "R4",
         "grupo": "Grupo Único",
         "tempo": null,
-        "_id": 1654885352,
+        "_id": 1655214948,
         "pontos1": [
             26,
             21,
@@ -1099,7 +1099,7 @@
         "rank2": "R3",
         "grupo": "Grupo Único",
         "tempo": "01:23",
-        "_id": 1654885353,
+        "_id": 1655214949,
         "pontos1": [
             20,
             25,
@@ -1133,7 +1133,7 @@
         "rank2": "R4",
         "grupo": "A",
         "tempo": "00:55",
-        "_id": 1654885354,
+        "_id": 1655214950,
         "pontos1": [
             25,
             25
@@ -1165,7 +1165,7 @@
         "rank2": "R5",
         "grupo": "Grupo Único",
         "tempo": "00:47",
-        "_id": 1654885355,
+        "_id": 1655214951,
         "pontos1": [
             25,
             25
@@ -1197,7 +1197,7 @@
         "rank2": "R3",
         "grupo": "Grupo Único",
         "tempo": "00:56",
-        "_id": 1654885356,
+        "_id": 1655214952,
         "pontos1": [
             25,
             25
@@ -1229,7 +1229,7 @@
         "rank2": "R5",
         "grupo": "Grupo Único",
         "tempo": "01:30",
-        "_id": 1654885357,
+        "_id": 1655214953,
         "pontos1": [
             25,
             24,
@@ -1263,7 +1263,7 @@
         "rank2": "R4",
         "grupo": "Grupo Único",
         "tempo": "01:10",
-        "_id": 1654885358,
+        "_id": 1655214954,
         "pontos1": [
             25,
             21,
@@ -1285,7 +1285,7 @@
         "genero": "Feminino",
         "fase": "Preliminar",
         "jogo": 4,
-        "equipe1": "MUNDO VOLEI",
+        "equipe1": "MUNDOVOLEI",
         "equipe2": "SANTA CRUZ VÔLEI RSV",
         "1set1": 25.0,
         "2set1": 25.0,
@@ -1297,7 +1297,7 @@
         "rank2": "R5",
         "grupo": "Grupo Único",
         "tempo": "00:40",
-        "_id": 1654885359,
+        "_id": 1655214955,
         "pontos1": [
             25,
             25
@@ -1329,7 +1329,7 @@
         "rank2": "R3",
         "grupo": "B",
         "tempo": "00:44",
-        "_id": 1654885360,
+        "_id": 1655214956,
         "pontos1": [
             25,
             25
@@ -1361,7 +1361,7 @@
         "rank2": "R5",
         "grupo": "A",
         "tempo": "00:58",
-        "_id": 1654885361,
+        "_id": 1655214957,
         "pontos1": [
             19,
             19
@@ -1393,7 +1393,7 @@
         "rank2": "R5",
         "grupo": "Grupo Único",
         "tempo": "00:53",
-        "_id": 1654885362,
+        "_id": 1655214958,
         "pontos1": [
             25,
             25
@@ -1425,7 +1425,7 @@
         "rank2": "R4",
         "grupo": "Grupo Único",
         "tempo": "01:00",
-        "_id": 1654885363,
+        "_id": 1655214959,
         "pontos1": [
             22,
             23
@@ -1457,7 +1457,7 @@
         "rank2": "R3",
         "grupo": "Grupo Único",
         "tempo": "01:02",
-        "_id": 1654885364,
+        "_id": 1655214960,
         "pontos1": [
             21,
             25,
@@ -1491,7 +1491,7 @@
         "rank2": "R5",
         "grupo": "A",
         "tempo": "00:57",
-        "_id": 1654885365,
+        "_id": 1655214961,
         "pontos1": [
             25,
             29
@@ -1523,7 +1523,7 @@
         "rank2": "R10",
         "grupo": "B",
         "tempo": "01:35",
-        "_id": 1654885366,
+        "_id": 1655214962,
         "pontos1": [
             25,
             23,
@@ -1557,7 +1557,7 @@
         "rank2": "R9",
         "grupo": "A",
         "tempo": null,
-        "_id": 1654885367,
+        "_id": 1655214963,
         "pontos1": [
             25,
             25
@@ -1589,7 +1589,7 @@
         "rank2": "R4",
         "grupo": "Grupo Único",
         "tempo": null,
-        "_id": 1654885368,
+        "_id": 1655214964,
         "pontos1": [
             25,
             25
@@ -1621,7 +1621,7 @@
         "rank2": "R6",
         "grupo": "B",
         "tempo": null,
-        "_id": 1654885369,
+        "_id": 1655214965,
         "pontos1": [
             25,
             21,
@@ -1655,7 +1655,7 @@
         "rank2": "R7",
         "grupo": "B",
         "tempo": "00:47",
-        "_id": 1654885370,
+        "_id": 1655214966,
         "pontos1": [
             25,
             25
@@ -1687,7 +1687,7 @@
         "rank2": "R6",
         "grupo": "B",
         "tempo": "00:53",
-        "_id": 1654885371,
+        "_id": 1655214967,
         "pontos1": [
             21,
             13
@@ -1719,7 +1719,7 @@
         "rank2": "R4",
         "grupo": "Grupo Único",
         "tempo": "01:22",
-        "_id": 1654885372,
+        "_id": 1655214968,
         "pontos1": [
             25,
             22,
@@ -1753,7 +1753,7 @@
         "rank2": "R2",
         "grupo": "Grupo Único",
         "tempo": "00:50",
-        "_id": 1654885373,
+        "_id": 1655214969,
         "pontos1": [
             25,
             25
@@ -1785,7 +1785,7 @@
         "rank2": "R2",
         "grupo": "Grupo Único",
         "tempo": "01:16",
-        "_id": 1654885374,
+        "_id": 1655214970,
         "pontos1": [
             25,
             15,
@@ -1819,7 +1819,7 @@
         "rank2": "R9",
         "grupo": "A",
         "tempo": "00:55",
-        "_id": 1654885375,
+        "_id": 1655214971,
         "pontos1": [
             25,
             25
@@ -1851,7 +1851,7 @@
         "rank2": "R6",
         "grupo": "B",
         "tempo": "01:00",
-        "_id": 1654885376,
+        "_id": 1655214972,
         "pontos1": [
             25,
             25
@@ -1883,7 +1883,7 @@
         "rank2": "R10",
         "grupo": "B",
         "tempo": null,
-        "_id": 1654885377,
+        "_id": 1655214973,
         "pontos1": [
             25,
             22,
@@ -1917,7 +1917,7 @@
         "rank2": "R4",
         "grupo": "Grupo Único",
         "tempo": null,
-        "_id": 1654885378,
+        "_id": 1655214974,
         "pontos1": [
             29,
             30
@@ -1939,41 +1939,25 @@
         "jogo": 5,
         "equipe1": "PURO MALTE",
         "equipe2": "VOLLEYSHOW",
-        "1set1": null,
-        "2set1": null,
-        "3set1": null,
-        "1set2": null,
-        "2set2": null,
-        "3set2": null,
+        "1set1": 23.0,
+        "2set1": 16.0,
+        "3set1": "x",
+        "1set2": 25.0,
+        "2set2": 25.0,
+        "3set2": "x",
         "rank1": "R3",
         "rank2": "R4",
         "grupo": "Grupo Único",
         "tempo": null,
-        "_id": 1654885379
-    },
-    {
-        "temporada": 2022,
-        "turno": "primeiro",
-        "data": "2022-06-04",
-        "hora": "10:30",
-        "local": "SESC Tijuca",
-        "categoria": "30/35+",
-        "genero": "Feminino",
-        "fase": "Preliminar",
-        "jogo": 6,
-        "equipe1": "CASA DOS AÇORES B(35)",
-        "equipe2": "CASA DO AÇORES A(30)",
-        "1set1": null,
-        "2set1": null,
-        "3set1": null,
-        "1set2": null,
-        "2set2": null,
-        "3set2": null,
-        "rank1": "R1",
-        "rank2": "R2",
-        "grupo": "Grupo Único",
-        "tempo": null,
-        "_id": 1654885380
+        "_id": 1655214975,
+        "pontos1": [
+            23,
+            16
+        ],
+        "pontos2": [
+            25,
+            25
+        ]
     },
     {
         "temporada": 2022,
@@ -1985,19 +1969,29 @@
         "genero": "Feminino",
         "fase": "Preliminar",
         "jogo": 5,
-        "equipe1": "MUNDO VOLEI",
+        "equipe1": "MUNDOVOLEI",
         "equipe2": "CASA DOS AÇORES A (40)",
-        "1set1": null,
-        "2set1": null,
-        "3set1": null,
-        "1set2": null,
-        "2set2": null,
-        "3set2": null,
+        "1set1": 13.0,
+        "2set1": 25.0,
+        "3set1": 14,
+        "1set2": 25.0,
+        "2set2": 12.0,
+        "3set2": 16,
         "rank1": "R1",
         "rank2": "R3",
         "grupo": "Grupo Único",
         "tempo": null,
-        "_id": 1654885381
+        "_id": 1655214976,
+        "pontos1": [
+            13,
+            25,
+            14
+        ],
+        "pontos2": [
+            25,
+            12,
+            16
+        ]
     },
     {
         "temporada": 2022,
@@ -2011,17 +2005,25 @@
         "jogo": 6,
         "equipe1": "CASA DOS AÇORES B(45)",
         "equipe2": "SANTA CRUZ VÔLEI RSV",
-        "1set1": null,
-        "2set1": null,
-        "3set1": null,
-        "1set2": null,
-        "2set2": null,
-        "3set2": null,
+        "1set1": 25.0,
+        "2set1": 25.0,
+        "3set1": "x",
+        "1set2": 17.0,
+        "2set2": 15.0,
+        "3set2": "x",
         "rank1": "R4",
         "rank2": "R5",
         "grupo": "Grupo Único",
         "tempo": null,
-        "_id": 1654885382
+        "_id": 1655214977,
+        "pontos1": [
+            25,
+            25
+        ],
+        "pontos2": [
+            17,
+            15
+        ]
     },
     {
         "temporada": 2022,
@@ -2045,7 +2047,7 @@
         "rank2": "R2",
         "grupo": "Grupo Único",
         "tempo": null,
-        "_id": 1654885383
+        "_id": 1655214978
     },
     {
         "temporada": 2022,
@@ -2059,17 +2061,25 @@
         "jogo": 16,
         "equipe1": "RVM",
         "equipe2": "SANTA CRUZ VÔLEI MASTER",
-        "1set1": null,
-        "2set1": null,
-        "3set1": null,
-        "1set2": null,
-        "2set2": null,
-        "3set2": null,
+        "1set1": 25.0,
+        "2set1": 25.0,
+        "3set1": "x",
+        "1set2": 18.0,
+        "2set2": 13.0,
+        "3set2": "x",
         "rank1": "R4",
         "rank2": "R8",
         "grupo": "A",
         "tempo": null,
-        "_id": 1654885384
+        "_id": 1655214979,
+        "pontos1": [
+            25,
+            25
+        ],
+        "pontos2": [
+            18,
+            13
+        ]
     },
     {
         "temporada": 2022,
@@ -2083,17 +2093,27 @@
         "jogo": 5,
         "equipe1": "RIO VOLEI",
         "equipe2": "MUNDOVOLEI",
-        "1set1": null,
-        "2set1": null,
-        "3set1": null,
-        "1set2": null,
-        "2set2": null,
-        "3set2": null,
+        "1set1": 25.0,
+        "2set1": 19.0,
+        "3set1": 4,
+        "1set2": 18.0,
+        "2set2": 25.0,
+        "3set2": 15,
         "rank1": "R1",
         "rank2": "R5",
         "grupo": "A",
         "tempo": null,
-        "_id": 1654885385
+        "_id": 1655214980,
+        "pontos1": [
+            25,
+            19,
+            4
+        ],
+        "pontos2": [
+            18,
+            25,
+            15
+        ]
     },
     {
         "temporada": 2022,
@@ -2107,17 +2127,25 @@
         "jogo": 3,
         "equipe1": "A.A.LIGHT",
         "equipe2": "BOTAFOGO",
-        "1set1": null,
-        "2set1": null,
-        "3set1": null,
-        "1set2": null,
-        "2set2": null,
-        "3set2": null,
+        "1set1": 25.0,
+        "2set1": 25.0,
+        "3set1": "x",
+        "1set2": 10.0,
+        "2set2": 16.0,
+        "3set2": "x",
         "rank1": "R2",
         "rank2": "R3",
         "grupo": "Grupo Único",
         "tempo": null,
-        "_id": 1654885386
+        "_id": 1655214981,
+        "pontos1": [
+            25,
+            25
+        ],
+        "pontos2": [
+            10,
+            16
+        ]
     },
     {
         "temporada": 2022,
@@ -2131,17 +2159,25 @@
         "jogo": 17,
         "equipe1": "VOLEISSAUROS",
         "equipe2": "MUNDOVOLEI B",
-        "1set1": null,
-        "2set1": null,
-        "3set1": null,
-        "1set2": null,
-        "2set2": null,
-        "3set2": null,
+        "1set1": 25.0,
+        "2set1": 25.0,
+        "3set1": "x",
+        "1set2": 21.0,
+        "2set2": 18.0,
+        "3set2": "x",
         "rank1": "R5",
         "rank2": "R9",
         "grupo": "A",
         "tempo": null,
-        "_id": 1654885387
+        "_id": 1655214982,
+        "pontos1": [
+            25,
+            25
+        ],
+        "pontos2": [
+            21,
+            18
+        ]
     },
     {
         "temporada": 2022,
@@ -2155,17 +2191,25 @@
         "jogo": 18,
         "equipe1": "MUNDOVOLEI A",
         "equipe2": "BOTAFOGO",
-        "1set1": null,
-        "2set1": null,
-        "3set1": null,
-        "1set2": null,
-        "2set2": null,
-        "3set2": null,
+        "1set1": 25.0,
+        "2set1": 25.0,
+        "3set1": "x",
+        "1set2": 17.0,
+        "2set2": 21.0,
+        "3set2": "x",
         "rank1": "R10",
         "rank2": "R7",
         "grupo": "B",
         "tempo": null,
-        "_id": 1654885388
+        "_id": 1655214983,
+        "pontos1": [
+            25,
+            25
+        ],
+        "pontos2": [
+            17,
+            21
+        ]
     },
     {
         "temporada": 2022,
@@ -2189,7 +2233,7 @@
         "rank2": "R5",
         "grupo": "Grupo Único",
         "tempo": null,
-        "_id": 1654885389
+        "_id": 1655214984
     },
     {
         "temporada": 2022,
@@ -2201,19 +2245,91 @@
         "genero": "Masculino",
         "fase": "Preliminar",
         "jogo": 9,
-        "equipe1": "MUNDO VOLEI",
+        "equipe1": "MUNDOVOLEI",
         "equipe2": "CAXIAS VÔLEI MASTER",
-        "1set1": null,
-        "2set1": null,
-        "3set1": null,
-        "1set2": null,
-        "2set2": null,
-        "3set2": null,
+        "1set1": 25.0,
+        "2set1": 25.0,
+        "3set1": "x",
+        "1set2": 18.0,
+        "2set2": 14.0,
+        "3set2": "x",
         "rank1": "R4",
         "rank2": "R5",
         "grupo": "Grupo Único",
         "tempo": null,
-        "_id": 1654885390
+        "_id": 1655214985,
+        "pontos1": [
+            25,
+            25
+        ],
+        "pontos2": [
+            18,
+            14
+        ]
+    },
+    {
+        "temporada": 2022,
+        "turno": "primeiro",
+        "data": "2022-06-09",
+        "hora": "19:30",
+        "local": "Arena 3",
+        "categoria": "40/45+",
+        "genero": "Feminino",
+        "fase": "Preliminar",
+        "jogo": 9,
+        "equipe1": "CASA DOS AÇORES A(40)",
+        "equipe2": "CASA DOS AÇORES B (45)",
+        "1set1": 25.0,
+        "2set1": 25.0,
+        "3set1": "x",
+        "1set2": 18.0,
+        "2set2": 14.0,
+        "3set2": "x",
+        "rank1": "R3",
+        "rank2": "R4",
+        "grupo": "Grupo Único",
+        "tempo": null,
+        "_id": 1655214986,
+        "pontos1": [
+            25,
+            25
+        ],
+        "pontos2": [
+            18,
+            14
+        ]
+    },
+    {
+        "temporada": 2022,
+        "turno": "primeiro",
+        "data": "2022-06-09",
+        "hora": "20:30",
+        "local": "SESC Tijuca",
+        "categoria": "30/35+",
+        "genero": "Feminino",
+        "fase": "Preliminar",
+        "jogo": 6,
+        "equipe1": "CASA DOS AÇORES B(35)",
+        "equipe2": "CASA DO AÇORES A(30)",
+        "1set1": 25.0,
+        "2set1": 25.0,
+        "3set1": "x",
+        "1set2": 17.0,
+        "2set2": 22.0,
+        "3set2": "x",
+        "rank1": "R1",
+        "rank2": "R2",
+        "grupo": "Grupo Único",
+        "tempo": null,
+        "_id": 1655214987,
+        "pontos1": [
+            25,
+            25
+        ],
+        "pontos2": [
+            17,
+            22
+        ]
     },
     {
         "temporada": 2022,
@@ -2225,19 +2341,27 @@
         "genero": "Masculino",
         "fase": "Quartas de Final",
         "jogo": 4,
-        "equipe1": null,
-        "equipe2": null,
-        "1set1": null,
-        "2set1": null,
-        "3set1": null,
-        "1set2": null,
-        "2set2": null,
-        "3set2": null,
+        "equipe1": "VOLEISSAUROS",
+        "equipe2": "BOTAFOGO",
+        "1set1": 25.0,
+        "2set1": 25.0,
+        "3set1": "x",
+        "1set2": 13.0,
+        "2set2": 11.0,
+        "3set2": "x",
         "rank1": "2º",
         "rank2": "3º",
-        "grupo": null,
+        "grupo": "Grupo Único",
         "tempo": null,
-        "_id": 1654885391
+        "_id": 1655214988,
+        "pontos1": [
+            25,
+            25
+        ],
+        "pontos2": [
+            13,
+            11
+        ]
     },
     {
         "temporada": 2022,
@@ -2251,17 +2375,25 @@
         "jogo": 6,
         "equipe1": "MASTER QUEEN",
         "equipe2": "VILA DA FEIRA",
-        "1set1": null,
-        "2set1": null,
-        "3set1": null,
-        "1set2": null,
-        "2set2": null,
-        "3set2": null,
+        "1set1": 12.0,
+        "2set1": 18.0,
+        "3set1": "x",
+        "1set2": 25.0,
+        "2set2": 25.0,
+        "3set2": "x",
         "rank1": "R3",
         "rank2": "R6",
         "grupo": "B",
         "tempo": null,
-        "_id": 1654885392
+        "_id": 1655214989,
+        "pontos1": [
+            12,
+            18
+        ],
+        "pontos2": [
+            25,
+            25
+        ]
     },
     {
         "temporada": 2022,
@@ -2275,17 +2407,25 @@
         "jogo": 7,
         "equipe1": "CASA DOS AÇORES A(40)",
         "equipe2": "SANTA CRUZ VÔLEI RSV",
-        "1set1": null,
-        "2set1": null,
-        "3set1": null,
-        "1set2": null,
-        "2set2": null,
-        "3set2": null,
+        "1set1": 25.0,
+        "2set1": 25.0,
+        "3set1": "x",
+        "1set2": 13.0,
+        "2set2": 13.0,
+        "3set2": "x",
         "rank1": "R3",
         "rank2": "R5",
         "grupo": "Grupo Único",
         "tempo": null,
-        "_id": 1654885393
+        "_id": 1655214990,
+        "pontos1": [
+            25,
+            25
+        ],
+        "pontos2": [
+            13,
+            13
+        ]
     },
     {
         "temporada": 2022,
@@ -2299,41 +2439,25 @@
         "jogo": 8,
         "equipe1": "MUNDOVOLEI",
         "equipe2": "ND",
-        "1set1": null,
-        "2set1": null,
-        "3set1": null,
-        "1set2": null,
-        "2set2": null,
-        "3set2": null,
+        "1set1": 16.0,
+        "2set1": 23.0,
+        "3set1": "x",
+        "1set2": 25.0,
+        "2set2": 25.0,
+        "3set2": "x",
         "rank1": "R1",
         "rank2": "R2",
         "grupo": "Grupo Único",
         "tempo": null,
-        "_id": 1654885394
-    },
-    {
-        "temporada": 2022,
-        "turno": "primeiro",
-        "data": "2022-06-11",
-        "hora": "15:00",
-        "local": "Arena 3",
-        "categoria": "40/45+",
-        "genero": "Feminino",
-        "fase": "Preliminar",
-        "jogo": 9,
-        "equipe1": "CASA DOS AÇORES A(40)",
-        "equipe2": "CASA DOS AÇORES B (45)",
-        "1set1": null,
-        "2set1": null,
-        "3set1": null,
-        "1set2": null,
-        "2set2": null,
-        "3set2": null,
-        "rank1": "R3",
-        "rank2": "R4",
-        "grupo": "Grupo Único",
-        "tempo": null,
-        "_id": 1654885395
+        "_id": 1655214991,
+        "pontos1": [
+            16,
+            23
+        ],
+        "pontos2": [
+            25,
+            25
+        ]
     },
     {
         "temporada": 2022,
@@ -2347,17 +2471,25 @@
         "jogo": 6,
         "equipe1": "C.R.FLAMENGO",
         "equipe2": "EXPRESSO CARIOCA",
-        "1set1": null,
-        "2set1": null,
-        "3set1": null,
-        "1set2": null,
-        "2set2": null,
-        "3set2": null,
+        "1set1": 25.0,
+        "2set1": 25.0,
+        "3set1": "x",
+        "1set2": 15.0,
+        "2set2": 21.0,
+        "3set2": "x",
         "rank1": "R4",
         "rank2": "R5",
         "grupo": "A",
         "tempo": null,
-        "_id": 1654885396
+        "_id": 1655214992,
+        "pontos1": [
+            25,
+            25
+        ],
+        "pontos2": [
+            15,
+            21
+        ]
     },
     {
         "temporada": 2022,
@@ -2365,23 +2497,31 @@
         "data": "2022-06-12",
         "hora": "09:00",
         "local": "Arena 3",
-        "categoria": null,
-        "genero": null,
-        "fase": null,
-        "jogo": null,
-        "equipe1": null,
-        "equipe2": null,
-        "1set1": null,
-        "2set1": null,
-        "3set1": null,
-        "1set2": null,
-        "2set2": null,
-        "3set2": null,
-        "rank1": null,
-        "rank2": null,
-        "grupo": null,
+        "categoria": "35+",
+        "genero": "Masculino",
+        "fase": "Preliminar",
+        "jogo": 6,
+        "equipe1": "VP MASTER TEAM",
+        "equipe2": "CARIOCAS DA GEMA",
+        "1set1": 25.0,
+        "2set1": 25.0,
+        "3set1": "x",
+        "1set2": 22.0,
+        "2set2": 9.0,
+        "3set2": "x",
+        "rank1": "R3",
+        "rank2": "R4",
+        "grupo": "Grupo Único",
         "tempo": null,
-        "_id": 1654885397
+        "_id": 1655214993,
+        "pontos1": [
+            25,
+            25
+        ],
+        "pontos2": [
+            22,
+            9
+        ]
     },
     {
         "temporada": 2022,
@@ -2395,17 +2535,25 @@
         "jogo": 19,
         "equipe1": "RVM",
         "equipe2": "MUNDOVOLEI B",
-        "1set1": null,
-        "2set1": null,
-        "3set1": null,
-        "1set2": null,
-        "2set2": null,
-        "3set2": null,
+        "1set1": 25.0,
+        "2set1": 25.0,
+        "3set1": "x",
+        "1set2": 14.0,
+        "2set2": 18.0,
+        "3set2": "x",
         "rank1": "R4",
         "rank2": "R9",
         "grupo": "A",
         "tempo": null,
-        "_id": 1654885398
+        "_id": 1655214994,
+        "pontos1": [
+            25,
+            25
+        ],
+        "pontos2": [
+            14,
+            18
+        ]
     },
     {
         "temporada": 2022,
@@ -2419,17 +2567,25 @@
         "jogo": 20,
         "equipe1": "UNIMASTER",
         "equipe2": "MUNDOVOLEI A",
-        "1set1": null,
-        "2set1": null,
-        "3set1": null,
-        "1set2": null,
-        "2set2": null,
-        "3set2": null,
+        "1set1": 18.0,
+        "2set1": 14.0,
+        "3set1": "x",
+        "1set2": 25.0,
+        "2set2": 25.0,
+        "3set2": "x",
         "rank1": "R6",
         "rank2": "R10",
         "grupo": "B",
         "tempo": null,
-        "_id": 1654885399
+        "_id": 1655214995,
+        "pontos1": [
+            18,
+            14
+        ],
+        "pontos2": [
+            25,
+            25
+        ]
     },
     {
         "temporada": 2022,
@@ -2442,18 +2598,28 @@
         "fase": "Preliminar",
         "jogo": 10,
         "equipe1": "PHENIX",
-        "equipe2": "MUNDO VOLEI",
-        "1set1": null,
-        "2set1": null,
-        "3set1": null,
-        "1set2": null,
-        "2set2": null,
-        "3set2": null,
+        "equipe2": "MUNDOVOLEI",
+        "1set1": 20.0,
+        "2set1": 25.0,
+        "3set1": 16,
+        "1set2": 25.0,
+        "2set2": 20.0,
+        "3set2": 14,
         "rank1": "R1",
         "rank2": "R4",
         "grupo": "Grupo Único",
         "tempo": null,
-        "_id": 1654885400
+        "_id": 1655214996,
+        "pontos1": [
+            20,
+            25,
+            16
+        ],
+        "pontos2": [
+            25,
+            20,
+            14
+        ]
     },
     {
         "temporada": 2022,
@@ -2467,17 +2633,27 @@
         "jogo": 2,
         "equipe1": "A.A.LIGHT",
         "equipe2": "BOTAFOGO",
-        "1set1": null,
-        "2set1": null,
-        "3set1": null,
-        "1set2": null,
-        "2set2": null,
-        "3set2": null,
+        "1set1": 25.0,
+        "2set1": 25.0,
+        "3set1": 15,
+        "1set2": 26.0,
+        "2set2": 23.0,
+        "3set2": 11,
         "rank1": "R1",
         "rank2": "R2",
         "grupo": "Grupo Único",
         "tempo": null,
-        "_id": 1654885401
+        "_id": 1655214997,
+        "pontos1": [
+            25,
+            25,
+            15
+        ],
+        "pontos2": [
+            26,
+            23,
+            11
+        ]
     },
     {
         "temporada": 2022,
@@ -2501,7 +2677,7 @@
         "rank2": null,
         "grupo": null,
         "tempo": null,
-        "_id": 1654885402
+        "_id": 1655214998
     },
     {
         "temporada": 2022,
@@ -2525,7 +2701,7 @@
         "rank2": "5ºB",
         "grupo": null,
         "tempo": null,
-        "_id": 1654885403
+        "_id": 1655214999
     },
     {
         "temporada": 2022,
@@ -2549,7 +2725,7 @@
         "rank2": "5ºA",
         "grupo": null,
         "tempo": null,
-        "_id": 1654885404
+        "_id": 1655215000
     },
     {
         "temporada": 2022,
@@ -2573,7 +2749,7 @@
         "rank2": "R3",
         "grupo": "Grupo Único",
         "tempo": null,
-        "_id": 1654885405
+        "_id": 1655215001
     },
     {
         "temporada": 2022,
@@ -2597,7 +2773,7 @@
         "rank2": "3ºA",
         "grupo": null,
         "tempo": null,
-        "_id": 1654885406
+        "_id": 1655215002
     },
     {
         "temporada": 2022,
@@ -2621,7 +2797,7 @@
         "rank2": "3ºB",
         "grupo": null,
         "tempo": null,
-        "_id": 1654885407
+        "_id": 1655215003
     },
     {
         "temporada": 2022,
@@ -2645,7 +2821,7 @@
         "rank2": "3ºA",
         "grupo": null,
         "tempo": null,
-        "_id": 1654885408
+        "_id": 1655215004
     },
     {
         "temporada": 2022,
@@ -2669,7 +2845,7 @@
         "rank2": "3ºB",
         "grupo": null,
         "tempo": null,
-        "_id": 1654885409
+        "_id": 1655215005
     },
     {
         "temporada": 2022,
@@ -2693,7 +2869,7 @@
         "rank2": "5º",
         "grupo": null,
         "tempo": null,
-        "_id": 1654885410
+        "_id": 1655215006
     },
     {
         "temporada": 2022,
@@ -2717,7 +2893,7 @@
         "rank2": "R3",
         "grupo": "Grupo Único",
         "tempo": null,
-        "_id": 1654885411
+        "_id": 1655215007
     },
     {
         "temporada": 2022,
@@ -2741,7 +2917,7 @@
         "rank2": "3ºA",
         "grupo": null,
         "tempo": null,
-        "_id": 1654885412
+        "_id": 1655215008
     },
     {
         "temporada": 2022,
@@ -2765,7 +2941,7 @@
         "rank2": "3ºB",
         "grupo": null,
         "tempo": null,
-        "_id": 1654885413
+        "_id": 1655215009
     },
     {
         "temporada": 2022,
@@ -2789,7 +2965,7 @@
         "rank2": "5º",
         "grupo": null,
         "tempo": null,
-        "_id": 1654885414
+        "_id": 1655215010
     },
     {
         "temporada": 2022,
@@ -2813,7 +2989,7 @@
         "rank2": "V22",
         "grupo": null,
         "tempo": null,
-        "_id": 1654885415
+        "_id": 1655215011
     },
     {
         "temporada": 2022,
@@ -2837,7 +3013,7 @@
         "rank2": "3°A",
         "grupo": null,
         "tempo": null,
-        "_id": 1654885416
+        "_id": 1655215012
     },
     {
         "temporada": 2022,
@@ -2861,7 +3037,7 @@
         "rank2": "1°B",
         "grupo": null,
         "tempo": null,
-        "_id": 1654885417
+        "_id": 1655215013
     },
     {
         "temporada": 2022,
@@ -2885,7 +3061,7 @@
         "rank2": "3°B",
         "grupo": null,
         "tempo": null,
-        "_id": 1654885418
+        "_id": 1655215014
     },
     {
         "temporada": 2022,
@@ -2909,7 +3085,7 @@
         "rank2": "V11",
         "grupo": null,
         "tempo": null,
-        "_id": 1654885419
+        "_id": 1655215015
     },
     {
         "temporada": 2022,
@@ -2933,7 +3109,7 @@
         "rank2": "V7",
         "grupo": null,
         "tempo": null,
-        "_id": 1654885420
+        "_id": 1655215016
     },
     {
         "temporada": 2022,
@@ -2957,7 +3133,7 @@
         "rank2": "4º",
         "grupo": null,
         "tempo": null,
-        "_id": 1654885421
+        "_id": 1655215017
     },
     {
         "temporada": 2022,
@@ -2981,7 +3157,7 @@
         "rank2": "3º",
         "grupo": null,
         "tempo": null,
-        "_id": 1654885422
+        "_id": 1655215018
     },
     {
         "temporada": 2022,
@@ -3005,7 +3181,7 @@
         "rank2": "4º",
         "grupo": null,
         "tempo": null,
-        "_id": 1654885423
+        "_id": 1655215019
     },
     {
         "temporada": 2022,
@@ -3029,7 +3205,7 @@
         "rank2": "3º",
         "grupo": null,
         "tempo": null,
-        "_id": 1654885424
+        "_id": 1655215020
     },
     {
         "temporada": 2022,
@@ -3053,7 +3229,7 @@
         "rank2": "V8",
         "grupo": null,
         "tempo": null,
-        "_id": 1654885425
+        "_id": 1655215021
     },
     {
         "temporada": 2022,
@@ -3077,7 +3253,7 @@
         "rank2": "V11",
         "grupo": null,
         "tempo": null,
-        "_id": 1654885426
+        "_id": 1655215022
     },
     {
         "temporada": 2022,
@@ -3101,7 +3277,7 @@
         "rank2": "3º",
         "grupo": null,
         "tempo": null,
-        "_id": 1654885427
+        "_id": 1655215023
     },
     {
         "temporada": 2022,
@@ -3125,7 +3301,7 @@
         "rank2": "V11",
         "grupo": null,
         "tempo": null,
-        "_id": 1654885428
+        "_id": 1655215024
     },
     {
         "temporada": 2022,
@@ -3149,7 +3325,7 @@
         "rank2": "3º",
         "grupo": null,
         "tempo": null,
-        "_id": 1654885429
+        "_id": 1655215025
     },
     {
         "temporada": 2022,
@@ -3173,7 +3349,7 @@
         "rank2": "3º",
         "grupo": null,
         "tempo": null,
-        "_id": 1654885430
+        "_id": 1655215026
     },
     {
         "temporada": 2022,
@@ -3197,7 +3373,7 @@
         "rank2": "V7",
         "grupo": null,
         "tempo": null,
-        "_id": 1654885431
+        "_id": 1655215027
     },
     {
         "temporada": 2022,
@@ -3221,7 +3397,7 @@
         "rank2": "V8",
         "grupo": null,
         "tempo": null,
-        "_id": 1654885432
+        "_id": 1655215028
     },
     {
         "temporada": 2022,
@@ -3245,7 +3421,7 @@
         "rank2": "P9",
         "grupo": null,
         "tempo": null,
-        "_id": 1654885433
+        "_id": 1655215029
     },
     {
         "temporada": 2022,
@@ -3269,7 +3445,7 @@
         "rank2": "V4",
         "grupo": null,
         "tempo": null,
-        "_id": 1654885434
+        "_id": 1655215030
     },
     {
         "temporada": 2022,
@@ -3293,7 +3469,7 @@
         "rank2": "V9",
         "grupo": null,
         "tempo": null,
-        "_id": 1654885435
+        "_id": 1655215031
     },
     {
         "temporada": 2022,
@@ -3317,7 +3493,7 @@
         "rank2": "P10",
         "grupo": null,
         "tempo": null,
-        "_id": 1654885436
+        "_id": 1655215032
     },
     {
         "temporada": 2022,
@@ -3341,7 +3517,7 @@
         "rank2": "V10",
         "grupo": null,
         "tempo": null,
-        "_id": 1654885437
+        "_id": 1655215033
     },
     {
         "temporada": 2022,
@@ -3365,7 +3541,7 @@
         "rank2": "P13",
         "grupo": null,
         "tempo": null,
-        "_id": 1654885438
+        "_id": 1655215034
     },
     {
         "temporada": 2022,
@@ -3389,7 +3565,7 @@
         "rank2": "V13",
         "grupo": null,
         "tempo": null,
-        "_id": 1654885439
+        "_id": 1655215035
     },
     {
         "temporada": 2022,
@@ -3413,7 +3589,7 @@
         "rank2": "P13",
         "grupo": null,
         "tempo": null,
-        "_id": 1654885440
+        "_id": 1655215036
     },
     {
         "temporada": 2022,
@@ -3437,7 +3613,7 @@
         "rank2": "P13",
         "grupo": null,
         "tempo": null,
-        "_id": 1654885441
+        "_id": 1655215037
     },
     {
         "temporada": 2022,
@@ -3461,7 +3637,7 @@
         "rank2": "V22",
         "grupo": null,
         "tempo": null,
-        "_id": 1654885442
+        "_id": 1655215038
     },
     {
         "temporada": 2022,
@@ -3485,7 +3661,7 @@
         "rank2": "V24",
         "grupo": null,
         "tempo": null,
-        "_id": 1654885443
+        "_id": 1655215039
     },
     {
         "temporada": 2022,
@@ -3509,7 +3685,7 @@
         "rank2": "V7",
         "grupo": null,
         "tempo": null,
-        "_id": 1654885444
+        "_id": 1655215040
     },
     {
         "temporada": 2022,
@@ -3533,7 +3709,7 @@
         "rank2": "V8",
         "grupo": null,
         "tempo": null,
-        "_id": 1654885445
+        "_id": 1655215041
     },
     {
         "temporada": 2022,
@@ -3557,7 +3733,7 @@
         "rank2": "P26",
         "grupo": null,
         "tempo": null,
-        "_id": 1654885446
+        "_id": 1655215042
     },
     {
         "temporada": 2022,
@@ -3581,7 +3757,7 @@
         "rank2": "V26",
         "grupo": null,
         "tempo": null,
-        "_id": 1654885447
+        "_id": 1655215043
     },
     {
         "temporada": 2022,
@@ -3605,7 +3781,7 @@
         "rank2": "P10",
         "grupo": null,
         "tempo": null,
-        "_id": 1654885448
+        "_id": 1655215044
     },
     {
         "temporada": 2022,
@@ -3629,7 +3805,7 @@
         "rank2": "V10",
         "grupo": null,
         "tempo": null,
-        "_id": 1654885449
+        "_id": 1655215045
     },
     {
         "temporada": 2022,
@@ -3653,6 +3829,6 @@
         "rank2": "V13",
         "grupo": null,
         "tempo": null,
-        "_id": 1654885450
+        "_id": 1655215046
     }
 ]
