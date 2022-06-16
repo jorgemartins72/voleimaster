@@ -62,7 +62,7 @@ ts = timestamp()
 
 def setId(d, id):
 	globals()['ts'] = id + 1
-	d['_id'] = ts
+	d['_id'] = str(ts)
 	return d
 
 def strTemporada(d):

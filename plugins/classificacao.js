@@ -19,16 +19,25 @@ export default (context, inject) => {
 		}
 		const EquipesGrupo = (groups, gr) => {
 			const grupo = groups[gr]
-			const equipes1 = Object.keys(_.groupBy(grupo, e1 => e1.equipe1))
-			const equipes2 = Object.keys(_.groupBy(grupo, e2 => e2.equipe2))
-			const equipes = _.uniq([...equipes1, ...equipes2])
 
-			const times = equipes.map( s => {
+			const equipesGrupo = []
+			const jogosId = []
+			grupo.map(i => {
+				equipesGrupo.push(i.equipe1)
+				jogosId.push(i._id)
+			})
+
+			grupo.map(i => {
+				equipesGrupo.push(i.equipe2)
+				jogosId.push(i._id)
+			})
+
+			const times = _.uniq(equipesGrupo).map( s => {
 				const eq = { nome: s}
 				
-				const jogos = Jogos(grupo, s)
+				const jogos = Jogos(grupo, jogosId, s)
 				eq.jogos = jogos
-
+				
 				const Vitorias = s => {
 					let v = 0
 					s.map( i => v += i.vitoria )
@@ -83,65 +92,53 @@ export default (context, inject) => {
 
 			return times
 		}
-		const Jogos = (grupo, eq) => {
+		
+		const Jogos = (grupo, jogosIds, eq) => {
 
-			const matchesEq1 = _.map(_.where(grupo, {equipe1: eq}), p => p._id)
-			const matchesEq2 = _.map(_.where(grupo, {equipe2: eq}), p => p._id)
-			const m1 = matchesEq1.map( i => {
+			const jogosEquipe1 = _.uniq(jogosIds).map( 
+				x => grupo.filter( y => y._id == x && y.equipe1 == eq)
+				.map(a => {
 
-				const placarEq1 = grupo.filter( j => j._id == i && j.equipe1 == eq)[0].pontos1
-				const placarEq2 = grupo.filter( j => j._id == i && j.equipe1 == eq)[0].pontos2
+					const placar = Sets(a.pontos1, a.pontos2)
+					const vitoria = placar[0] > placar[1] ? 1 : 0
+					const derrota = placar[0] < placar[1] ? 1 : 0
+					const wo = (a.pontos1[0] + a.pontos1[1]) == 0  ? 1 : 0
 
-				const placar = Sets(placarEq1, placarEq2)
+					return {
+						parciais: [ a.pontos1, a.pontos2],
+						placar,
+						vitoria,
+						derrota,
+						setspro: placar[0],
+						setscontra: placar[1],
+						wo
+					}
+				})[0] 
+			)
 
-				const vitoria = placar[0] > placar[1] ? 1 : 0
-				const derrota = placar[0] < placar[1] ? 1 : 0
-				const wo = (placarEq1[0] + placarEq1[1]) == 0  ? 1 : 0
+			const jogosEquipe2 = _.uniq(jogosIds).map( 
+				x => grupo.filter( y => y._id == x && y.equipe2 == eq).map(a => {
+					
+					const placar = Sets(a.pontos2, a.pontos1)
+					const vitoria = placar[0] > placar[1] ? 1 : 0
+					const derrota = placar[0] < placar[1] ? 1 : 0
+					const wo = (a.pontos2[0] + a.pontos2[1]) == 0  ? 1 : 0
 
-				if (placarEq1[0] == 0) {
-					console.log('eq1', eq, placarEq1, placarEq1[0] + placarEq1[1])
-				}
+					return {
+						parciais: [ a.pontos2, a.pontos1],
+						placar,
+						vitoria,
+						derrota,
+						setspro: placar[0],
+						setscontra: placar[1],
+						wo
+					}
+				})[0]
+			)
 
-				if (placarEq2[0] == 0) {
-					console.log('eq2', eq, placarEq2, placarEq2[0] + placarEq2[1])
-				}
-
-				return {
-					parciais: placarEq1,
-					placar,
-					vitoria,
-					derrota,
-					setspro: placar[0],
-					setscontra: placar[1],
-					wo
-				}
-			})
-
-			const m2 = matchesEq2.map( i => {
-
-				const placarEq1 = grupo.filter( j => j._id = i)[0].pontos1
-				const placarEq2 = grupo.filter( j => j._id = i)[0].pontos2
-
-				const placar = Sets(placarEq2, placarEq1)
-
-				const vitoria = placar[0] > placar[1] ? 1 : 0
-				const derrota = placar[0] < placar[1] ? 1 : 0
-				const wo = (placarEq1[0] + placarEq1[1]) == 0 ? 1 : 0
-				
-
-				return {
-					parciais: placarEq1,
-					placar,
-					vitoria,
-					derrota,
-					setspro: placar[0],
-					setscontra: placar[1],
-					wo
-				}
-			})
-
-			return [...m1, ...m2]
+			return [...jogosEquipe1, ...jogosEquipe2].filter( f => f != null )
 		}
+
 		const Sets = (eq1, eq2) => {
 			let sets = eq1.map( (v, k) => {
 				return eq1[k] > eq2[k] ? [1, 0] : [0, 1]
