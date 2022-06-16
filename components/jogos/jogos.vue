@@ -1,5 +1,5 @@
 <template>
-	<div >
+	<div v-if="DataJogos[0].temporada == temporada.temporada && competicao == 'estadual'">
 
 		<div class="mb-12">
 			<div v-if="!_.isEmpty(jogosResults)">

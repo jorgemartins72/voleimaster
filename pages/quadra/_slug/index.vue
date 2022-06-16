@@ -42,6 +42,8 @@
 
 			</div>
 
+			<pre>==>{{slug}}</pre>
+
 			<Jogos class="mt-6" :temporada="temporada" :competicao="slug" />
 
 			<h3 class="mt-8 text-xl font-black">Arquivos</h3>

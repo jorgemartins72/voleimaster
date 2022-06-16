@@ -44,6 +44,7 @@
 
 			</div>
 
+			<pre>==>{{temporada.temporada}}</pre>
 
 			<div class="mt-6 grid grid-cols-1 md:grid-cols-3 gap-4 justify-items-center md:justify-items-start">
 
