@@ -98,7 +98,7 @@
 			const slug = params.slug
 			return { slug }
 		},
-		mounted(){
+		created(){
 			this.teste()
 		},
 		methods: {
