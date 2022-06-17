@@ -101,7 +101,11 @@
 			return { slug }
 		},
 		mounted(){
-			alert(this.slug)
+			if(this.slug){
+				alert(this.slug)
+			} else {
+				alert('sem slug')
+			}
 		},
 		computed:{
 			pathTo(){
