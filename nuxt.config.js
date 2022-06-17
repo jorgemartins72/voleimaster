@@ -69,16 +69,8 @@ export default {
     // https://go.nuxtjs.dev/axios
     '@nuxtjs/axios',
     'vue-sweetalert2/nuxt',
-    '@nuxtjs/dayjs',
-    'nuxt-trailingslash-module'
+    '@nuxtjs/dayjs'
   ],
-  
-  trailingslash: {
-    methods: [
-      'GET',
-      'HEAD',
-    ],
-  },
 
   dayjs: {
     locales: ['pt-br', 'en'],
@@ -97,7 +89,8 @@ export default {
   },
 
   router: {
-    trailingSlash: false
+    trailingSlash: false,
+    middleware: 'trailingSlashRedirect'
   },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
