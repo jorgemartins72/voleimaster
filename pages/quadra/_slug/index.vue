@@ -42,9 +42,6 @@
 
 			</div>
 
-			<pre>==>{{slug}}</pre>
-			<pre>==>{{arrTempo}}</pre>
-
 			<Jogos class="mt-6" :temporada="temporada" :competicao="arrTempo[1]" />
 
 			<h3 class="mt-8 text-xl font-black">Arquivos</h3>
@@ -100,9 +97,6 @@
 		async asyncData({ params }) {
 			const slug = params.slug
 			return { slug }
-		},
-		mounted(){
-			alert(this.arrTempo)
 		},
 		computed:{
 			pathTo(){
