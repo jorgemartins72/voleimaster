@@ -27,7 +27,7 @@
 
 									<div 
 										class="grid grid-cols-12 text-sm font-light text-center" 
-										v-for="(equipe, k) in ordemByPontos(grupo.equipes)" :key="k"
+										v-for="(equipe, k) in grupo.equipes" :key="k"
 										:class="{'bg-gray-200': k % 2 === 0}"
 									>
 
@@ -79,20 +79,6 @@
 				return (s == 'A' || s == 'B') ? `Grupo ${s.charAt(0).toUpperCase() + s.slice(1)}` : s
 			},
 		},
-		methods: {
-			ordemByPontos(arr){
-				return arr.sort((a, b) => {
-					if (a.scores.pontos < b.scores.pontos) {
-						return 1;
-					}
-					if (a.scores.pontos > b.scores.pontos) {
-						return -1;
-					}
-					// a must be equal to b
-					return 0;
-				})
-			}
-		}
 	}
 </script>
 

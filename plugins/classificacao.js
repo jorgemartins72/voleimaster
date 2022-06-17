@@ -90,7 +90,27 @@ export default (context, inject) => {
 				return eq 
 			})
 
-			return times
+			const EquipesSortPorSetsAvg = times.sort((a, b) => {
+					if (a.scores.avg < b.scores.avg) {
+						return 1;
+					}
+					if (a.scores.avg > b.scores.avg) {
+						return -1;
+					}
+					return 0;
+				})
+
+			const EquipesSortPorPontos = EquipesSortPorSetsAvg.sort((a, b) => {
+					if (a.scores.pontos < b.scores.pontos) {
+						return 1;
+					}
+					if (a.scores.pontos > b.scores.pontos) {
+						return -1;
+					}
+					return 0;
+				})
+
+			return EquipesSortPorPontos
 		}
 		
 		const Jogos = (grupo, jogosIds, eq) => {
