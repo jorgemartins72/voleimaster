@@ -44,7 +44,7 @@
 
 			<pre>==>{{slug}}</pre>
 
-			<Jogos class="mt-6" :temporada="temporada" :competicao="slug" />
+			<Jogos class="mt-6" :temporada="temporada" :competicao="arrTempo[1]" />
 
 			<h3 class="mt-8 text-xl font-black">Arquivos</h3>
 			<div class="mt-2 grid grid-cols-1 md:grid-cols-3 gap-4 justify-items-center md:justify-items-start">
@@ -100,13 +100,9 @@
 			const slug = params.slug
 			return { slug }
 		},
-		mounted(){
-			if(this.slug){
-				alert(this.slug)
-			} else {
-				alert('sem slug')
-			}
-		},
+		// mounted(){
+		// 	alert(this.arrTempo)
+		// },
 		computed:{
 			pathTo(){
 				return this.$route.path;

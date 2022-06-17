@@ -95,9 +95,6 @@
 				competicoes_quadra
 			}
 		},
-		mounted(){
-			alert(this.arrTempo)
-		},
 		computed:{
 			arrTempo(){
 				return this.$route.path.split('/').filter( i => i != '')
