@@ -100,9 +100,9 @@
 			const slug = params.slug
 			return { slug }
 		},
-		// mounted(){
-		// 	alert(this.arrTempo)
-		// },
+		mounted(){
+			alert(this.arrTempo)
+		},
 		computed:{
 			pathTo(){
 				return this.$route.path;
