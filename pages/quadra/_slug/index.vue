@@ -43,6 +43,7 @@
 			</div>
 
 			<pre>==>{{slug}}</pre>
+			<pre>==>{{arrTempo}}</pre>
 
 			<Jogos class="mt-6" :temporada="temporada" :competicao="arrTempo[1]" />
 
