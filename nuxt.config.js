@@ -69,8 +69,16 @@ export default {
     // https://go.nuxtjs.dev/axios
     '@nuxtjs/axios',
     'vue-sweetalert2/nuxt',
-    '@nuxtjs/dayjs'
+    '@nuxtjs/dayjs',
+    'nuxt-trailingslash-module'
   ],
+  
+  trailingslash: {
+    methods: [
+      'GET',
+      'HEAD',
+    ],
+  },
 
   dayjs: {
     locales: ['pt-br', 'en'],
