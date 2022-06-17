@@ -98,6 +98,14 @@
 			const slug = params.slug
 			return { slug }
 		},
+		mounted(){
+			this.teste()
+		},
+		methods: {
+			teste(){
+				alert(this.arrTempo)
+			}
+		},
 		computed:{
 			pathTo(){
 				return this.$route.path;
