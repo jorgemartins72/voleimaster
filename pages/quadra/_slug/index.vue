@@ -98,6 +98,9 @@
 			const slug = params.slug
 			return { slug }
 		},
+		middleware(){
+			console.log('middleware')
+		},
 		// mounted(){
 		// 	this.teste()
 		// },

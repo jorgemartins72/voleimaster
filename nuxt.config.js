@@ -90,7 +90,6 @@ export default {
 
   router: {
     trailingSlash: false,
-    middleware: 'trailingSlashRedirect'
   },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
