@@ -42,7 +42,7 @@
 
 			</div>
 
-			<Jogos class="mt-6" :temporada="temporada" :competicao="arrTempo[1]" />
+
 
 			<h3 class="mt-8 text-xl font-black">Arquivos</h3>
 			<div class="mt-2 grid grid-cols-1 md:grid-cols-3 gap-4 justify-items-center md:justify-items-start">
@@ -85,10 +85,10 @@
 
 <script>
 	import { competicoes_quadra } from '/static/data'
-	import Jogos from '@/components/jogos/jogos.vue'
+	// import Jogos from '@/components/jogos/jogos.vue'
 
 	export default {
-		components: { Jogos },
+		// components: { Jogos },
 		data(){
 			return {
 				competicoes_quadra
@@ -98,7 +98,7 @@
 			const slug = params.slug
 			return { slug }
 		},
-		created(){
+		mounted(){
 			this.teste()
 		},
 		methods: {
