@@ -1,5 +1,5 @@
 <template>
-	<div >
+	<div v-if="DataJogos[0].temporada == temporada.temporada">
 
 		<div class="mb-12">
 			<div v-if="!_.isEmpty(jogosResults)">
@@ -27,7 +27,7 @@
 	
 	export default {
 		components: { ItemJogo, Tabela },
-		// props: ['temporada', 'competicao'],
+		props: ['temporada', 'competicao'],
 		data(){
 			return {
 				DataJogos,
