@@ -27,7 +27,7 @@
 	
 	export default {
 		components: { ItemJogo, Tabela },
-		props: ['temporada', 'competicao'],
+		// props: ['temporada', 'competicao'],
 		data(){
 			return {
 				DataJogos,
