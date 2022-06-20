@@ -42,7 +42,7 @@
 
 			</div>
 
-			<Jogos class="mt-6" :temporada="temporada" :competicao="arrTempo[1]" />
+			<Jogos class="mt-6" />
 
 			<h3 class="mt-8 text-xl font-black">Arquivos</h3>
 			<div class="mt-2 grid grid-cols-1 md:grid-cols-3 gap-4 justify-items-center md:justify-items-start">
@@ -98,17 +98,6 @@
 			const slug = params.slug
 			return { slug }
 		},
-		middleware(){
-			console.log('middleware')
-		},
-		// mounted(){
-		// 	this.teste()
-		// },
-		methods: {
-			teste(){
-				alert(this.arrTempo)
-			}
-		},
 		computed:{
 			pathTo(){
 				return this.$route.path;
@@ -117,11 +106,11 @@
 				return this.$route.path.split('/').filter( i => i != '')
 			},
 			competicao(){
-				const c = competicoes_quadra[this.slug]
+				const c = competicoes_quadra['estadual']
 				return {nome: c['nome'], "descricao":c['descricao']}
 			},
 			temporadas(){
-				const t = competicoes_quadra[this.slug]
+				const t = competicoes_quadra['estadual']
 				return t.temporadas
 			},
 			temporada(){

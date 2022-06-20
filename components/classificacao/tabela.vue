@@ -32,14 +32,14 @@
 									>
 
 										<div class="col-span-4 pl-2 font-semibold text-left text-gray-800">{{equipe.nome}}</div>
-										<div class="border-l border-gray-400 text-center font-semibold text-gray-800">{{equipe.scores.pontos}}</div>
-										<div class="border-l border-gray-400">{{equipe.scores.total_jogos}}</div>
-										<div class="border-l border-gray-400">{{equipe.scores.vitorias}}</div>
-										<div class="border-l border-gray-400">{{equipe.scores.derrotas}}</div>
-										<div class="border-l border-gray-400">{{equipe.scores.total_wo}}</div>
-										<div class="border-l border-gray-400">{{equipe.scores.total_setspro}}</div>
-										<div class="border-l border-gray-400">{{equipe.scores.total_setscontra}}</div>
-										<div class="border-l border-gray-400">{{equipe.scores.avg}}</div>
+										<div class="text-center font-semibold text-gray-800">{{equipe.scores.pontos}}</div>
+										<div class="">{{equipe.scores.total_jogos}}</div>
+										<div class="">{{equipe.scores.vitorias}}</div>
+										<div class="">{{equipe.scores.derrotas}}</div>
+										<div class="">{{equipe.scores.total_wo}}</div>
+										<div class="">{{equipe.scores.total_setspro}}</div>
+										<div class="">{{equipe.scores.total_setscontra}}</div>
+										<div class="">{{equipe.scores.avg}}</div>
 
 									</div>
 								</div>
