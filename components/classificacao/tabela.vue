@@ -8,7 +8,7 @@
 				</div>
 				<div class="mb-8" v-for="genero in turno.generos" :key="genero.nome">
 					<div class="mb-8" v-for="categoria in genero.categorias" :key="categoria.nome">
-						<div class="border border-gray-300 rounded-lg bg-gray-300 overflow-hidden">
+						<div class="rounded-lg border overflow-hidden" :class="bgGenero(genero.nome)">
 							<div class="text-sm px-2 py-1">{{categoria.nome}} {{genero.nome}}</div>
 							<div class="bg-white rounded-lg">
 								<div v-for="grupo in categoria.grupos" :key="grupo.nome" class="pb-2">
@@ -79,6 +79,11 @@
 				return (s == 'A' || s == 'B') ? `Grupo ${s.charAt(0).toUpperCase() + s.slice(1)}` : s
 			},
 		},
+		methods: {
+			bgGenero(genero){
+				return genero == 'Masculino' ? 'border-blue-300 bg-blue-300' : 'border-red-300 bg-red-300'
+			}
+		}
 	}
 </script>
 
