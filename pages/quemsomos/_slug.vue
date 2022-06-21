@@ -4,6 +4,7 @@
 
 		<FVMR v-if="$route.params.slug == 'fvmr'" :dados="QuemSomos" />
 		<Gestao v-if="$route.params.slug == 'gestao'" :dados="QuemSomos" />
+		<Transparencia v-if="$route.params.slug == 'transparencia'" />
 
 	</div>
 </template>
@@ -12,9 +13,10 @@
 	import { QuemSomos } from '/static/quemsomos/quemsomos'
 	import FVMR from './pagecomps/fvmr'
 	import Gestao from './pagecomps/gestao.vue'
+	import Transparencia from './pagecomps/transparencia.vue'
 
 	export default {
-		components: { FVMR, Gestao },
+		components: { FVMR, Gestao, Transparencia },
 		data(){
 			return {
 				QuemSomos

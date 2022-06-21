@@ -18,7 +18,7 @@
 		</div>
 		
 		<div class="grid grid-cols-1 md:grid-cols-5 lg:grid-cols-6">
-			<div class="font-inter-800 font-black uppercase text-2xl text-gray-600 mb-4">
+			<div class="font-inter-800 font-black uppercase text-xl text-gray-600 mb-4">
 				Integrantes
 			</div>
 
