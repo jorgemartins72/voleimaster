@@ -18,7 +18,9 @@ export default (context, inject) => {
 			return _.groupBy(categorias[cat], g => g.grupo)
 		}
 		const EquipesGrupo = (groups, gr) => {
-			const grupo = groups[gr]
+			const grupo = groups[gr].filter( i => i.fase == 'Preliminar')
+
+			// console.log( JSON.parse( JSON.stringify(grupo) ) )
 
 			const equipesGrupo = []
 			const jogosId = []
