@@ -13,7 +13,7 @@
 			</div>
 		</div>
 
-		<Tabela :rank="classificacao" />
+		<Tabela :rank="classificacao" :dt_update="updateAt" />
 		
 	</div>
 </template>
@@ -39,17 +39,20 @@
 		},
 		computed: {
 			classificacao(){
-				return this.$classicacao( this.DataJogos )
+				return this.$classicacao( this.DataJogos.jogos )
+			},
+			updateAt(){
+				return this.DataJogos.update_at
 			},
 			proximosJogos(){
-				let arr = DataJogos
+				let arr = DataJogos.jogos
 					.filter(j => !j.pontos1 )
 					.filter(j => j.data > this.d3 && j.data < this.d4 )
 				
 				return _.groupBy(arr, i => i.data)
 			},
 			jogosResults(){
-				let arr = DataJogos
+				let arr = DataJogos.jogos
 					.filter(j => j.pontos1 )
 					.filter(j => j.data > this.d1 && j.data < this.d2 )
 				
@@ -58,7 +61,7 @@
 				return results
 			},
 			jogosMasculino(){
-				let arr = DataJogos.filter(j => j.pontos1 )
+				let arr = DataJogos.jogos.filter(j => j.pontos1 )
 				let jogos = _.groupBy(arr, i => i.genero)['Masculino']
 				let categorias = _.groupBy(jogos, i => i.categoria)
 				return categorias

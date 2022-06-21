@@ -75,12 +75,14 @@ jogosId = list(map(lambda y: setId(y, ts), jogos_importados))
 cor_dt = list(map(lambda y: corrige_data(y), jogosId))
 cor_hr = list(map(lambda y: corrige_hora(y), cor_dt))
 p1 = list(map(lambda y: pontos1(y), cor_hr))
-
 p2 = list(map(lambda y: pontos2(y), p1))
-
 jogos = list(map(lambda y: jogoInt(y), p2))
+
+data_update = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
 
 # show(jogos)
 
 with open('./static/jogos_quadra_estadual.json', 'w') as outfile:
-	json.dump(jogosId, outfile, ensure_ascii=False, indent=4)
+	json.dump(dict(jogos=jogos, update_at=data_update), outfile, ensure_ascii=False, indent=4)
+
+## gerar arquivo com data de atualização

@@ -3,8 +3,9 @@
 		<div class="mb-8 text-lg font-black" v-for="temporada in rank" :key="temporada.nome">
 			<!-- Temporada {{temporada.nome}} -->
 			<div class="mb-8" v-for="turno in temporada.turnos" :key="turno.nome">
-				<div class="text-xl font-bold">
-					Classificação {{turno.nome|nome_turno}}
+				<div class="text-2xl font-bold leading-4 text-gray-700">
+					Classificação {{turno.nome|nome_turno}}<br>
+					<small class="font-light text-xs text-gray-500">Atualizado em {{dt_update}}</small>
 				</div>
 				<div class="mb-8" v-for="genero in turno.generos" :key="genero.nome">
 					<div class="mb-8" v-for="categoria in genero.categorias" :key="categoria.nome">
@@ -58,7 +59,7 @@
 	import _, { map } from 'underscore'
 
 	export default {
-		props: ['rank'],
+		props: ['rank', 'dt_update'],
 		computed: {
 			turnos() {
 				return this.rank.temporadas[0]['2022'].turnos
