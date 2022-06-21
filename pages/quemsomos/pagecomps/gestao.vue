@@ -31,7 +31,7 @@
 
 		<div class="md:px-8 mb-8 mt-12">
 			<h3 class="mb-4 text-2xl font-black">Organograma</h3>
-			<Organograma />
+			<img src="/quemsomos/gestao/organograma.png" />
 		</div>
 
 		<div class="md:px-8 mb-8 mt-12">
@@ -240,11 +240,7 @@
 </template>
 
 <script>
-
-	import Organograma from '@/components/organograma.vue'
-
 	export default {
-		components: { Organograma },
 		props: ['dados'],
 		computed: {
 			gestao(){
